@@ -1,0 +1,1021 @@
+Order ID,Order Date,Customer Name,Product,Region,Salesperson,Quantity,Unit Price,Sales Amount
+ORD-00001,2023-01-01,William Nguyen,Smartphone,Asia,Angela Hunter,7.0,639.15,4474.05
+ORD-00002,2023-01-02,Ronald Wheeler,Tablet,South America,Jennifer Allen,15.0,301.62,4524.3
+ORD-00003,2023-01-03,Shannon Jimenez,Smartphone,Europe,Amber Bailey,9.0,786.7,7080.3
+ORD-00004,2023-01-04,Michael Berry,Laptop,Asia,Teresa Williams,11.0,733.49,8068.39
+ORD-00005,2023-01-05,Randy Johnson,Laptop,North America,Monica Figueroa,2.0,630.99,1261.98
+ORD-00006,2023-01-06,Courtney Carpenter,Tablet,South America,Charles Frazier,8.0,290.88,2327.04
+ORD-00007,2023-01-07,Jennifer Curtis,Tablet,South America,Eric Robinson,1.0,268.59,268.59
+ORD-00008,2023-01-08,Steven Jones,Smartphone,North America,Geoffrey Brown,15.0,707.58,10613.7
+ORD-00009,2023-01-09,Lauren Johnston,Laptop,North America,Chris Griffin,1.0,582.36,582.36
+ORD-00010,2023-01-10,Mrs. Victoria Sanders,Smartphone,,Phillip Allison,,950.86,
+ORD-00011,2023-01-11,Miss Heidi Brown,Smartphone,Europe,Joshua Manning,13.0,675.1,8776.300000000001
+ORD-00012,2023-01-12,Adam Dawson,Smartphone,Europe,Robert Fox,8.0,766.79,6134.32
+ORD-00013,2023-01-13,Randy Flores,Laptop,South America,Cindy Duncan,12.0,696.05,8352.599999999999
+ORD-00014,2023-01-14,Ashley Curry,Smartphone,Asia,Todd Rangel,14.0,416.59,5832.259999999999
+ORD-00015,2023-01-15,Christina Nunez,Smartphone,Europe,Maria Ward,15.0,406.87,6103.05
+ORD-00016,2023-01-16,Jamie Holmes,Smartphone,North America,Derek Powell,13.0,721.3,9376.9
+ORD-00017,2023-01-17,Dustin Martin,Laptop,North America,Kim Pratt,13.0,429.45,5582.849999999999
+ORD-00018,2023-01-18,Angela Tate,Tablet,North America,Michael York,9.0,871.54,7843.86
+ORD-00019,2023-01-19,Kara Thomas,Tablet,Asia,Christina Martinez,1.0,,
+ORD-00020,2023-01-20,Brittany Fisher,Laptop,North America,Brian Turner,14.0,627.11,8779.54
+ORD-00021,2023-01-21,Andrea Malone,Laptop,South America,Andrea Delacruz,16.0,322.72,5163.52
+ORD-00022,2023-01-22,Heather Orozco,Smartphone,North America,Ralph Joyce,3.0,867.35,2602.05
+ORD-00023,2023-01-23,Michael Taylor,Smartphone,Europe,Benjamin Garcia,9.0,966.76,8700.84
+ORD-00024,2023-01-24,Mr. Kevin Roberts,Smartphone,Asia,Jeremiah Foster,4.0,427.11,1708.44
+ORD-00025,2023-01-25,Natalie Baldwin,Laptop,Europe,Anthony Greene,17.0,964.3,16393.1
+ORD-00026,2023-01-26,Jacob Anderson,Laptop,North America,Justin Moss,4.0,261.73,1046.92
+ORD-00027,2023-01-27,Joseph Russo,Laptop,North America,Deanna Thompson,1.0,419.41,419.41
+ORD-00028,2023-01-28,Jimmy Waller,Tablet,Asia,Keith Jones,18.0,318.16,5726.88
+ORD-00029,2023-01-29,Mark Morrison,Smartphone,South America,Christopher Wallace,13.0,,
+ORD-00030,2023-01-30,Brian Flowers,Tablet,North America,Andrew Harrison,9.0,711.35,6402.150000000001
+ORD-00031,2023-01-31,Jacqueline Jacobs,Laptop,Asia,Tyler Landry,10.0,199.6,1996.0
+ORD-00032,2023-02-01,Shawn Hart,Smartphone,Europe,Carlos George,18.0,615.59,11080.62
+ORD-00033,2023-02-02,Joshua Richardson,Smartphone,Asia,Michelle Miller,15.0,113.05,1695.75
+ORD-00034,2023-02-03,Jamie Marquez,Tablet,South America,Dr. Alexis Kent,4.0,981.08,3924.32
+ORD-00035,2023-02-04,Valerie Baker,Laptop,North America,Mark Carpenter,7.0,643.47,4504.29
+ORD-00036,2023-02-05,Teresa Miller,Smartphone,South America,Catherine Simmons,16.0,980.55,15688.8
+ORD-00037,2023-02-06,Adriana Mcmahon,Tablet,North America,Mary Reed,3.0,265.24,795.72
+ORD-00038,2023-02-07,Caitlin Powers,Smartphone,,Laura Gray,4.0,753.45,3013.8
+ORD-00039,2023-02-08,Shawn Rice,Laptop,,Steven Ward,8.0,797.84,6382.72
+ORD-00040,2023-02-09,Terry Ramsey,Smartphone,North America,Mariah Franco,4.0,827.74,3310.96
+ORD-00041,2023-02-10,Nichole King,Tablet,North America,Travis Tran,12.0,371.15,4453.799999999999
+ORD-00042,2023-02-11,Barbara Brown,Tablet,Europe,John Elliott,10.0,383.65,3836.5
+ORD-00043,2023-02-12,Mark Davis,Smartphone,Asia,Elizabeth Durham,17.0,687.82,11692.94
+ORD-00044,2023-02-13,Richard Thompson,,North America,Raymond Duncan,19.0,231.69,4402.11
+ORD-00045,2023-02-14,Sean Myers,Smartphone,South America,Casey Lindsey,4.0,774.65,3098.6
+ORD-00046,2023-02-15,Ronald Medina,Tablet,Asia,Stephanie Briggs,15.0,516.52,7747.799999999999
+ORD-00047,2023-02-16,Benjamin Shah,Smartphone,Europe,Daniel Mcclure,16.0,312.35,4997.6
+ORD-00048,2023-02-17,Shannon Mckay,Laptop,Europe,Tony Glass,11.0,61.05,671.55
+ORD-00049,2023-02-18,David Boone,Laptop,,Matthew Wolfe,17.0,631.44,10734.480000000001
+ORD-00050,2023-02-19,Beth Davidson,Smartphone,Asia,William Barber,5.0,578.47,2892.3500000000004
+ORD-00051,2023-02-20,Kerry Ross,Tablet,Asia,Eric Miller,12.0,471.37,5656.4400000000005
+ORD-00052,2023-02-21,Ashley Lee,Tablet,Europe,Katherine Henderson,,231.28,
+ORD-00053,2023-02-22,Kurt Davis,Laptop,North America,Shannon Hayes MD,1.0,228.21,228.21
+ORD-00054,2023-02-23,Molly Welch PhD,Smartphone,,Richard Bullock,3.0,398.91,1196.73
+ORD-00055,2023-02-24,Derek Johns,Laptop,North America,Rebecca Santos,7.0,698.37,4888.59
+ORD-00056,2023-02-25,Jasmine Hurst,Smartphone,Asia,Kathryn Boyd,12.0,601.78,7221.36
+ORD-00057,2023-02-26,Victoria Jackson,Laptop,,Terry Trevino,,956.4,
+ORD-00058,2023-02-27,Anthony Hill,Smartphone,Asia,Brandy Baldwin,19.0,394.42,7493.9800000000005
+ORD-00059,2023-02-28,Hector Robinson,Tablet,Europe,Jamie Taylor,10.0,827.31,8273.099999999999
+ORD-00060,2023-03-01,George Richmond,Laptop,South America,Taylor Snyder,2.0,386.73,773.46
+ORD-00061,2023-03-02,Robin Sloan,Laptop,Asia,Julie Bryant,6.0,597.29,3583.74
+ORD-00062,2023-03-03,Robert Hoffman,Tablet,South America,Eric Cobb,11.0,517.9,5696.9
+ORD-00063,2023-03-04,Steven Johnson,Laptop,South America,Cynthia Clark,11.0,144.48,1589.28
+ORD-00064,2023-03-05,Anthony Gaines,Laptop,North America,Willie Lozano,8.0,933.2,7465.6
+ORD-00065,2023-03-06,Chelsea Coffey,Laptop,Europe,Sabrina Estrada,17.0,117.33,1994.61
+ORD-00066,2023-03-07,Jacob Martinez,Smartphone,Europe,Matthew Cuevas,18.0,932.57,16786.260000000002
+ORD-00067,2023-03-08,Daniel Meadows,Tablet,South America,Jonathan Mitchell,16.0,381.24,6099.84
+ORD-00068,2023-03-09,Bonnie Thomas,Laptop,Asia,Samuel Tucker,18.0,661.15,11900.699999999999
+ORD-00069,2023-03-10,Yolanda Lopez,Smartphone,North America,David Marshall,1.0,988.88,988.88
+ORD-00070,2023-03-11,Kyle Gallagher,Tablet,Europe,Rodney Bowman,18.0,805.29,14495.22
+ORD-00071,2023-03-12,Makayla Richardson,Laptop,,Dennis Thomas,3.0,956.07,2868.21
+ORD-00072,2023-03-13,Jessica Manning,,South America,Dr. Courtney Jensen,18.0,452.85,8151.3
+ORD-00073,2023-03-14,William Elliott,Laptop,North America,Mrs. Julie Hernandez DDS,15.0,526.13,7891.95
+ORD-00074,2023-03-15,Aaron Quinn Jr.,Laptop,Asia,Alexander Nguyen,1.0,796.49,796.49
+ORD-00075,2023-03-16,Rebecca Gomez,Laptop,North America,Lisa Shea,12.0,85.42,1025.04
+ORD-00076,2023-03-17,Jason Reed,Laptop,North America,Allison Garcia,7.0,791.71,5541.97
+ORD-00077,2023-03-18,Darlene Lambert,Tablet,North America,Brent Jones,2.0,621.59,1243.18
+ORD-00078,2023-03-19,Mary Johnson,Smartphone,Europe,Leslie Hopkins,15.0,775.77,11636.55
+ORD-00079,2023-03-20,Erica Price,Laptop,Asia,Patricia Gray,11.0,263.01,2893.1099999999997
+ORD-00080,2023-03-21,Patrick Little,Tablet,Asia,David Mueller,5.0,522.12,2610.6
+ORD-00081,2023-03-22,Brian Booker,Smartphone,Asia,Dr. Denise Ford,,813.31,
+ORD-00082,2023-03-23,Christine Saunders,Smartphone,Europe,Mary Ramos,12.0,689.79,8277.48
+ORD-00083,2023-03-24,James Lin,Smartphone,Asia,Keith Garcia,17.0,566.13,9624.21
+ORD-00084,2023-03-25,Lori Price,Tablet,South America,Alexandra Fleming,12.0,353.84,4246.08
+ORD-00085,2023-03-26,Brian Shah,Laptop,South America,Karen Hernandez,8.0,482.42,3859.36
+ORD-00086,2023-03-27,Jessica Martin,Laptop,Europe,Shannon Sanchez,8.0,279.15,2233.2
+ORD-00087,2023-03-28,Stephanie Gardner,Laptop,South America,David Howell,,355.66,
+ORD-00088,2023-03-29,Jessica Taylor,Smartphone,Asia,Eric York,15.0,,
+ORD-00089,2023-03-30,Daniel Waller,Smartphone,Europe,Janet Ward,16.0,342.37,5477.92
+ORD-00090,2023-03-31,Megan Miller,Laptop,,Andrew Wong,3.0,682.47,2047.41
+ORD-00091,2023-04-01,Michael Martin,Laptop,South America,Richard Hernandez,2.0,186.54,373.08
+ORD-00092,2023-04-02,Debra Jacobson,Tablet,North America,Elizabeth Ray,18.0,570.28,10265.039999999999
+ORD-00093,2023-04-03,Andrew Martin,Smartphone,Europe,Katherine Carter,2.0,410.33,820.66
+ORD-00094,2023-04-04,Christopher Davis,Laptop,South America,Michelle Thompson,2.0,241.43,482.86
+ORD-00095,2023-04-05,Ivan Smith,Laptop,Asia,Wendy Hall,12.0,60.97,731.64
+ORD-00096,2023-04-06,Michael Stewart,Smartphone,North America,Andrea Coleman,18.0,726.72,13080.960000000001
+ORD-00097,2023-04-07,Caroline Torres,Tablet,South America,Sandra Colon,3.0,,
+ORD-00098,2023-04-08,Lindsey Johnson,Tablet,North America,Catherine Davis,5.0,533.76,2668.8
+ORD-00099,2023-04-09,Cody Weaver,Smartphone,North America,Annette Tyler,8.0,559.51,4476.08
+ORD-00100,2023-04-10,Jennifer Huffman,,South America,Steven Brooks,19.0,366.16,6957.040000000001
+ORD-00101,2023-04-11,Mr. Gary Griffin,Smartphone,Asia,Jenna Wright,13.0,686.51,8924.63
+ORD-00102,2023-04-12,Tara Wright,Smartphone,Europe,Anthony Chapman,7.0,115.42,807.94
+ORD-00103,2023-04-13,Tracy Vargas,Smartphone,North America,Scott Cuevas,11.0,325.07,3575.77
+ORD-00104,2023-04-14,Anthony Barnes,Laptop,South America,Alexander Ritter,4.0,,
+ORD-00105,2023-04-15,Stephanie Frost,Smartphone,North America,Michelle Leach,19.0,151.39,2876.41
+ORD-00106,2023-04-16,Melissa Burke,,South America,Kevin Ramos,14.0,286.72,4014.0800000000004
+ORD-00107,2023-04-17,Raymond Le,Tablet,North America,Scott Wolf,1.0,114.3,114.3
+ORD-00108,2023-04-18,David Knight,Smartphone,Asia,Patrick Peterson,,72.15,
+ORD-00109,2023-04-19,Ann Sullivan,Laptop,North America,Julie Mcgrath,,174.97,
+ORD-00110,2023-04-20,Amanda Franklin,Laptop,North America,Kevin Higgins,17.0,985.02,16745.34
+ORD-00111,2023-04-21,Dr. Jean Zhang,Laptop,South America,Richard Wiggins,6.0,832.97,4997.82
+ORD-00112,2023-04-22,Jason Jordan,Smartphone,South America,Katherine Peterson,6.0,223.93,1343.58
+ORD-00113,2023-04-23,Christopher Atkinson,Smartphone,South America,Elizabeth Harris,,548.97,
+ORD-00114,2023-04-24,Kristen Harvey,Tablet,South America,Zachary Anderson,17.0,377.78,6422.259999999999
+ORD-00115,2023-04-25,Michael Wagner,Tablet,North America,Christopher Thompson,2.0,83.6,167.2
+ORD-00116,2023-04-26,Scott Ewing,Laptop,South America,James Cook,1.0,,
+ORD-00117,2023-04-27,Jacob Black,Smartphone,Asia,Nicholas Davis,17.0,942.35,16019.95
+ORD-00118,2023-04-28,Gordon Jackson,Tablet,North America,Christian Garcia,19.0,315.5,5994.5
+ORD-00119,2023-04-29,Douglas Patel,Smartphone,South America,Jane Wright,18.0,423.64,7625.5199999999995
+ORD-00120,2023-04-30,Marissa Garcia,Tablet,South America,Mason Vargas,19.0,379.71,7214.49
+ORD-00121,2023-05-01,Jeanette Howard,Smartphone,North America,Laura Sanders,2.0,983.34,1966.68
+ORD-00122,2023-05-02,Alexander Ward,Laptop,South America,Tracey Brown,15.0,379.92,5698.8
+ORD-00123,2023-05-03,James West,,,David Sims,17.0,584.65,9939.05
+ORD-00124,2023-05-04,Scott Hodge,Tablet,North America,James Lyons,11.0,535.15,5886.65
+ORD-00125,2023-05-05,John Washington,Smartphone,North America,Kelsey Stark,19.0,490.02,9310.38
+ORD-00126,2023-05-06,Keith Peterson,Laptop,Asia,Ashley Gentry,12.0,521.78,6261.36
+ORD-00127,2023-05-07,Megan Phillips,Smartphone,North America,Bryan Walton,9.0,698.37,6285.33
+ORD-00128,2023-05-08,Kathryn Smith,Laptop,Asia,Melanie Jones,19.0,677.04,12863.759999999998
+ORD-00129,2023-05-09,Sydney Anderson,Smartphone,Asia,Cory Lopez,1.0,961.73,961.73
+ORD-00130,2023-05-10,Spencer Brown,Smartphone,South America,David Hopkins,14.0,,
+ORD-00131,2023-05-11,Megan Olson,Tablet,South America,Mark Mendoza,3.0,103.14,309.42
+ORD-00132,2023-05-12,Steven Wright,Laptop,Europe,Tara Alvarez,5.0,,
+ORD-00133,2023-05-13,Donald Hobbs,Tablet,North America,Nancy Evans,10.0,966.3,9663.0
+ORD-00134,2023-05-14,Susan Jones,Laptop,Asia,Curtis Skinner,18.0,720.94,12976.920000000002
+ORD-00135,2023-05-15,Jaime Andrews,Tablet,Europe,Jill Morton,7.0,503.09,3521.6299999999997
+ORD-00136,2023-05-16,Barbara Wheeler,Laptop,South America,Christian Palmer,6.0,809.33,4855.9800000000005
+ORD-00137,2023-05-17,Jerry Bullock,Laptop,North America,Charles Anderson,8.0,330.48,2643.84
+ORD-00138,2023-05-18,Mr. Peter Schwartz,Laptop,Asia,Brandon Lee,3.0,320.52,961.56
+ORD-00139,2023-05-19,George Ramos,Laptop,Asia,Gregory Garner,2.0,801.47,1602.94
+ORD-00140,2023-05-20,Brett Johnson,Tablet,South America,Adam Burke,19.0,67.04,1273.7600000000002
+ORD-00141,2023-05-21,Donald Moran,Laptop,North America,Kristen Sullivan,3.0,527.35,1582.0500000000002
+ORD-00142,2023-05-22,Kayla West,Laptop,Asia,Amanda Lee,,442.66,
+ORD-00143,2023-05-23,Sandy Green,Smartphone,North America,Carrie Alvarez,1.0,891.52,891.52
+ORD-00144,2023-05-24,Ashley Hubbard,Laptop,Asia,Brian Miller,2.0,932.76,1865.52
+ORD-00145,2023-05-25,Bailey Hodge,Laptop,Asia,Andrew Gonzalez,3.0,488.32,1464.96
+ORD-00146,2023-05-26,Adam Moreno,Tablet,North America,Jessica Foster,11.0,895.87,9854.57
+ORD-00147,2023-05-27,Kelsey Hurst,Laptop,South America,Danielle Banks,17.0,274.32,4663.44
+ORD-00148,2023-05-28,Mrs. Donna Walton,Smartphone,Europe,Julie Hahn,10.0,561.89,5618.9
+ORD-00149,2023-05-29,Gregory Brown,Laptop,Europe,Jennifer Russell,11.0,881.85,9700.35
+ORD-00150,2023-05-30,Sheila Jones,Tablet,North America,Hector Roberson,15.0,620.56,9308.4
+ORD-00151,2023-05-31,Allison Nunez,Tablet,Asia,Brittney Walls,10.0,521.42,5214.2
+ORD-00152,2023-06-01,Courtney Hurley,Tablet,Asia,Monique Chambers,19.0,138.47,2630.93
+ORD-00153,2023-06-02,Ronald Sanchez,Tablet,North America,Amanda Herring,12.0,69.21,830.52
+ORD-00154,2023-06-03,Todd Smith,Laptop,North America,Abigail Young,6.0,357.85,2147.1000000000004
+ORD-00155,2023-06-04,William Ortiz PhD,Tablet,Europe,Jessica Carter,5.0,667.54,3337.7
+ORD-00156,2023-06-05,Kathryn Mcknight,Tablet,Asia,Nicole Phillips,17.0,511.18,8690.06
+ORD-00157,2023-06-06,Jordan Nixon,Tablet,North America,Joseph Rodriguez,18.0,981.52,17667.36
+ORD-00158,2023-06-07,Jessica Stewart,Tablet,Asia,Brandon Berg,1.0,969.91,969.91
+ORD-00159,2023-06-08,Monica Fields,Laptop,North America,Reginald Graham,4.0,839.14,3356.56
+ORD-00160,2023-06-09,Isaac Medina,Smartphone,,Bryan Potts,6.0,817.92,4907.5199999999995
+ORD-00161,2023-06-10,Teresa Lara,Smartphone,Asia,Nicole Green,7.0,249.4,1745.8
+ORD-00162,2023-06-11,Taylor Mccoy,Laptop,North America,Patricia Pittman DVM,8.0,954.53,7636.24
+ORD-00163,2023-06-12,Deanna Rhodes,Tablet,Asia,Robert Gordon,4.0,652.31,2609.24
+ORD-00164,2023-06-13,Adam Rose,Smartphone,North America,Patricia Garcia,7.0,156.68,1096.76
+ORD-00165,2023-06-14,Erin Walker,Smartphone,South America,Jessica Morse,6.0,238.38,1430.28
+ORD-00166,2023-06-15,Jenna Bishop,Tablet,Asia,Lisa Clark,3.0,811.9,2435.7
+ORD-00167,2023-06-16,Michelle Sexton,Smartphone,Europe,Michael Forbes,17.0,230.72,3922.24
+ORD-00168,2023-06-17,Patricia Washington,Smartphone,Asia,Jason Smith,2.0,143.6,287.2
+ORD-00169,2023-06-18,Sarah Arroyo,Smartphone,Asia,Kendra Martinez,9.0,805.07,7245.63
+ORD-00170,2023-06-19,Alexandria Rice,Smartphone,Asia,Donald Curry,16.0,439.02,7024.32
+ORD-00171,2023-06-20,Jody Mendez,,South America,Beth Vincent,13.0,91.41,1188.33
+ORD-00172,2023-06-21,Carlos Ramsey,Smartphone,Europe,Crystal Wright,,806.55,
+ORD-00173,2023-06-22,Mr. James Rangel,,Europe,Frederick Watson,16.0,231.38,3702.08
+ORD-00174,2023-06-23,Jill Gutierrez,Smartphone,Asia,Richard Spencer,3.0,458.17,1374.51
+ORD-00175,2023-06-24,Breanna Rivers,Laptop,Asia,Brent Carr,11.0,104.57,1150.27
+ORD-00176,2023-06-25,Kevin Phillips,Tablet,Asia,Megan Palmer,8.0,323.09,2584.72
+ORD-00177,2023-06-26,Stephanie Byrd,Tablet,Asia,Jennifer Obrien,12.0,465.25,5583.0
+ORD-00178,2023-06-27,Donald Allen,Tablet,Europe,Kristen Powers,8.0,288.79,2310.32
+ORD-00179,2023-06-28,Susan Taylor,Laptop,South America,Heidi Green,10.0,432.03,4320.299999999999
+ORD-00180,2023-06-29,Christine Bond,Smartphone,Asia,Hannah Butler,4.0,795.77,3183.08
+ORD-00181,2023-06-30,Andrew Smith,Smartphone,Europe,Andrew Burke,14.0,687.24,9621.36
+ORD-00182,2023-07-01,Leslie Leonard,Smartphone,Asia,Kenneth Brown,5.0,545.49,2727.45
+ORD-00183,2023-07-02,Mrs. Patricia Anderson,Laptop,Europe,Heather Long,4.0,731.29,2925.16
+ORD-00184,2023-07-03,Christopher Boyd,Smartphone,Asia,Gerald White,,738.38,
+ORD-00185,2023-07-04,William Miller,Laptop,Europe,Drew Marshall,4.0,649.51,2598.04
+ORD-00186,2023-07-05,Megan Larsen,Smartphone,South America,Valerie Allen,2.0,467.41,934.82
+ORD-00187,2023-07-06,Alexandra Mckinney,Tablet,Asia,David Villa,14.0,320.67,4489.38
+ORD-00188,2023-07-07,Ashley Simon,Tablet,North America,Teresa White,3.0,591.76,1775.28
+ORD-00189,2023-07-08,David Sanchez,Smartphone,South America,Ricardo Gilbert,2.0,393.15,786.3
+ORD-00190,2023-07-09,Jennifer Williams,Tablet,,Mr. Harry Walton,4.0,521.43,2085.72
+ORD-00191,2023-07-10,Zachary Hester,Tablet,,Benjamin Bates,5.0,622.48,3112.4
+ORD-00192,2023-07-11,Lauren Warren,Smartphone,Europe,Samuel Crawford,1.0,983.41,983.41
+ORD-00193,2023-07-12,James Cook,Tablet,Europe,Lisa Fox,5.0,108.12,540.6
+ORD-00194,2023-07-13,Diana White,Tablet,Europe,Karen Wells,15.0,771.27,11569.05
+ORD-00195,2023-07-14,Curtis Swanson,Tablet,North America,Taylor Hodge,6.0,392.89,2357.34
+ORD-00196,2023-07-15,Ricky Johnson,Tablet,Asia,Kerri Walsh,18.0,233.99,4211.82
+ORD-00197,2023-07-16,Steven Mendoza,Tablet,South America,Albert Drake,10.0,,
+ORD-00198,2023-07-17,Rebecca Flores,Laptop,South America,Sydney Moran,4.0,544.59,2178.36
+ORD-00199,2023-07-18,Henry Graham,,South America,Robert Mcdonald,7.0,,
+ORD-00200,2023-07-19,Amy Carrillo,,South America,Ashley Taylor,17.0,497.57,8458.69
+ORD-00201,2023-07-20,Vincent Boone,Laptop,South America,Dustin Whitehead,7.0,530.72,3715.04
+ORD-00202,2023-07-21,Dawn Tran,Tablet,Asia,Kristina Collins,16.0,857.57,13721.12
+ORD-00203,2023-07-22,Richard Davis,Smartphone,Europe,Aaron Thompson,1.0,,
+ORD-00204,2023-07-23,Sharon Olson,,Asia,Nicole Cook,15.0,,
+ORD-00205,2023-07-24,Stephen Ritter,,North America,Erika Black,6.0,448.86,2693.16
+ORD-00206,2023-07-25,Erika Miller,,South America,Dwayne Mason,12.0,,
+ORD-00207,2023-07-26,Candice Sanders,,Europe,Joshua Fletcher,8.0,722.14,5777.12
+ORD-00208,2023-07-27,Tami Walters,,South America,Richard Morrison,12.0,864.73,10376.76
+ORD-00209,2023-07-28,Andrew Mccall,Laptop,Asia,Deborah Baker,15.0,415.6,6234.0
+ORD-00210,2023-07-29,Melissa Lamb,Laptop,,Robert Payne,5.0,204.63,1023.15
+ORD-00211,2023-07-30,Natasha Burgess,Smartphone,North America,Erica Peterson,2.0,789.7,1579.4
+ORD-00212,2023-07-31,Nicole Pena,Laptop,Europe,Allison Marquez,15.0,97.4,1461.0
+ORD-00213,2023-08-01,Eddie Murphy,Laptop,Asia,Alec Pierce,14.0,774.29,10840.06
+ORD-00214,2023-08-02,Kathleen Harris,Smartphone,Europe,Kimberly Taylor,4.0,,
+ORD-00215,2023-08-03,Edward Myers,Tablet,,Jeffrey Palmer,,877.67,
+ORD-00216,2023-08-04,Samantha Morris,Smartphone,Asia,Jamie Patterson,,670.94,
+ORD-00217,2023-08-05,Kyle Farley,Tablet,South America,Amy Evans,2.0,913.82,1827.64
+ORD-00218,2023-08-06,Richard Morrison,Tablet,Asia,Laura Goodwin,4.0,356.95,1427.8
+ORD-00219,2023-08-07,Douglas Gordon,Laptop,Asia,David Good,9.0,340.87,3067.83
+ORD-00220,2023-08-08,Jordan Johns,Smartphone,,Debbie Castro,2.0,451.8,903.6
+ORD-00221,2023-08-09,Sharon Cabrera,Smartphone,Asia,Kristina Morgan,16.0,500.83,8013.28
+ORD-00222,2023-08-10,Tyler Perry,,Europe,Mallory Fletcher,4.0,272.68,1090.72
+ORD-00223,2023-08-11,Christina Evans,Laptop,South America,Brian Savage,14.0,813.43,11388.019999999999
+ORD-00224,2023-08-12,Gregory Hall,Laptop,North America,Jeffrey Fletcher,4.0,981.0,3924.0
+ORD-00225,2023-08-13,Danielle Chen,Tablet,Asia,Joshua Moore,10.0,280.72,2807.2000000000003
+ORD-00226,2023-08-14,Marcia Sanchez,Tablet,Asia,Derek Jones,18.0,785.63,14141.34
+ORD-00227,2023-08-15,Dr. Jeffrey Hill,Laptop,Europe,Brian Parker,11.0,908.56,9994.16
+ORD-00228,2023-08-16,Timothy Hale,Tablet,North America,Jonathon Williams,3.0,644.64,1933.92
+ORD-00229,2023-08-17,Maria Brady,Tablet,Europe,Jessica Monroe,2.0,456.53,913.06
+ORD-00230,2023-08-18,Keith Fitzgerald,Laptop,Europe,Kristin Moran,,845.14,
+ORD-00231,2023-08-19,Jennifer Myers,Tablet,Asia,Alan Sullivan,3.0,553.98,1661.94
+ORD-00232,2023-08-20,Rhonda Woodard,Laptop,South America,Jesse Benitez,7.0,854.62,5982.34
+ORD-00233,2023-08-21,John Kirby,Tablet,Asia,Larry Mccoy,19.0,724.64,13768.16
+ORD-00234,2023-08-22,Monica Miller,Tablet,Asia,Christine Gonzalez,11.0,160.19,1762.09
+ORD-00235,2023-08-23,Richard White,Laptop,Europe,Zachary Turner,16.0,509.26,8148.16
+ORD-00236,2023-08-24,Earl Daniel,Tablet,South America,Cynthia Rhodes,7.0,784.14,5488.98
+ORD-00237,2023-08-25,Courtney Jackson,Laptop,Asia,Mary Allen,17.0,163.67,2782.39
+ORD-00238,2023-08-26,Jon Smith,Laptop,Europe,Brittany King,14.0,969.45,13572.300000000001
+ORD-00239,2023-08-27,David Johnson,Laptop,Asia,Darren Hughes,11.0,336.63,3702.93
+ORD-00240,2023-08-28,Craig Montgomery,Smartphone,Europe,Mr. Jonathan Nunez,11.0,754.63,8300.93
+ORD-00241,2023-08-29,Curtis Crawford,Laptop,South America,Rhonda Carter,14.0,84.46,1182.4399999999998
+ORD-00242,2023-08-30,William Mitchell,Smartphone,Asia,Julian Ramirez,10.0,600.78,6007.799999999999
+ORD-00243,2023-08-31,Shannon Jensen,,Asia,Austin Walker,5.0,302.47,1512.3500000000001
+ORD-00244,2023-09-01,Carlos Wolf,Tablet,North America,Jacob Hubbard,,760.15,
+ORD-00245,2023-09-02,Amber Page,Laptop,South America,Julie Morris,,207.38,
+ORD-00246,2023-09-03,Amanda Thompson,Laptop,Europe,Holly Lewis,2.0,202.67,405.34
+ORD-00247,2023-09-04,Erik Wood,Laptop,South America,William Powell,14.0,433.42,6067.88
+ORD-00248,2023-09-05,Michael Johnson,Laptop,Asia,Laura Lopez,14.0,655.68,9179.519999999999
+ORD-00249,2023-09-06,Stephanie Warner,Smartphone,Europe,Leah Dyer,13.0,820.48,10666.24
+ORD-00250,2023-09-07,Shelley Suarez,Smartphone,South America,Catherine Hatfield,6.0,539.09,3234.54
+ORD-00251,2023-09-08,Stephen Rojas,Tablet,Europe,Andrew Brewer,13.0,938.66,12202.58
+ORD-00252,2023-09-09,Dawn Robles,Laptop,Europe,Jodi Walker,8.0,504.7,4037.6
+ORD-00253,2023-09-10,Amy Skinner,Laptop,South America,Megan Reyes,1.0,752.66,752.66
+ORD-00254,2023-09-11,Oscar King,Tablet,North America,Tyler Cobb,7.0,729.0,5103.0
+ORD-00255,2023-09-12,Sean Dixon,Tablet,Asia,Linda Lee,5.0,240.53,1202.65
+ORD-00256,2023-09-13,Michael Burns,Smartphone,North America,Victoria Green,3.0,599.64,1798.92
+ORD-00257,2023-09-14,Allison Powell,Smartphone,,Natalie Walters,1.0,347.06,347.06
+ORD-00258,2023-09-15,Dana Ortega,Tablet,Europe,William Wright,8.0,880.2,7041.6
+ORD-00259,2023-09-16,Christopher Leblanc,Laptop,Asia,Dr. Garrett Guerrero,11.0,678.38,7462.18
+ORD-00260,2023-09-17,Kerry Johnson,Smartphone,Asia,Karen Lopez,17.0,639.49,10871.33
+ORD-00261,2023-09-18,Annette Bryan,Laptop,South America,Kevin Guzman,5.0,357.79,1788.95
+ORD-00262,2023-09-19,Jacqueline Mcdonald,Tablet,Asia,Nancy Wood,,313.35,
+ORD-00263,2023-09-20,Omar Bennett,Tablet,North America,Monica Armstrong DVM,1.0,971.58,971.58
+ORD-00264,2023-09-21,Christopher Wilkins,Laptop,Asia,Jacob Sosa DDS,16.0,690.29,11044.64
+ORD-00265,2023-09-22,Mark Dawson,Tablet,South America,Kristin Simon,19.0,954.63,18137.97
+ORD-00266,2023-09-23,Daniel Schwartz,Laptop,South America,Donna Miller,18.0,541.44,9745.920000000002
+ORD-00267,2023-09-24,Kevin Jones,Smartphone,South America,Charlotte Christensen DDS,4.0,393.04,1572.16
+ORD-00268,2023-09-25,Dawn Jenkins,Tablet,Asia,Heidi Lawrence,10.0,149.07,1490.6999999999998
+ORD-00269,2023-09-26,Julie Mcbride,Laptop,South America,Tammy Castillo,,973.36,
+ORD-00270,2023-09-27,Brandon Nicholson,Smartphone,Asia,Richard Oneill,4.0,678.57,2714.28
+ORD-00271,2023-09-28,Stephanie Brooks,Smartphone,South America,Lindsay Cabrera,15.0,978.89,14683.35
+ORD-00272,2023-09-29,Brian Torres,Tablet,South America,Vanessa White,,949.58,
+ORD-00273,2023-09-30,Kenneth Melton,Smartphone,South America,Rebecca Hall,,484.69,
+ORD-00274,2023-10-01,Frank Bryant,Smartphone,Europe,Brett Rodriguez,4.0,225.11,900.44
+ORD-00275,2023-10-02,Haley Pierce,Laptop,Asia,Eric Mendoza,16.0,292.49,4679.84
+ORD-00276,2023-10-03,Paul Sosa,Tablet,Asia,Bradley Berry,5.0,578.01,2890.05
+ORD-00277,2023-10-04,Lori Johns,Tablet,South America,Catherine Gordon,18.0,363.08,6535.44
+ORD-00278,2023-10-05,Nicole Anderson,Smartphone,North America,Bryan Nelson,18.0,238.87,4299.66
+ORD-00279,2023-10-06,Amber Baldwin,Laptop,South America,Martha Gordon,7.0,689.25,4824.75
+ORD-00280,2023-10-07,Kevin Burnett,Laptop,North America,Stacey Lawrence,2.0,746.92,1493.84
+ORD-00281,2023-10-08,Lynn Sharp,Tablet,Europe,Cheryl Stevens,16.0,293.97,4703.52
+ORD-00282,2023-10-09,Glenn Collins,Smartphone,North America,Jennifer Sanchez,11.0,613.78,6751.58
+ORD-00283,2023-10-10,Elizabeth Buckley,Laptop,North America,Brian Smith,18.0,135.96,2447.28
+ORD-00284,2023-10-11,Ryan Harrington,Smartphone,Asia,Julia Mckenzie,8.0,947.79,7582.32
+ORD-00285,2023-10-12,Christine Watts,Laptop,Europe,Emily Miller,12.0,80.23,962.76
+ORD-00286,2023-10-13,Patricia Fitzgerald,Smartphone,North America,Debbie Campbell,4.0,647.66,2590.64
+ORD-00287,2023-10-14,Kyle Rodriguez,Smartphone,,Eric Nelson,6.0,698.82,4192.92
+ORD-00288,2023-10-15,Cheryl Fisher,Smartphone,Asia,Donald Hernandez,17.0,648.82,11029.94
+ORD-00289,2023-10-16,Jason Petersen,Laptop,South America,Stephanie Morales,15.0,298.01,4470.15
+ORD-00290,2023-10-17,David Zimmerman,Tablet,,Mrs. Jordan Hunter,17.0,69.74,1185.58
+ORD-00291,2023-10-18,Nicholas Flores,Laptop,Asia,Jesus Pearson,14.0,309.17,4328.38
+ORD-00292,2023-10-19,Philip Vaughan,Tablet,Europe,Nicholas Thomas,11.0,279.7,3076.7
+ORD-00293,2023-10-20,Tracy Flynn,Laptop,North America,Shannon Wells,9.0,949.15,8542.35
+ORD-00294,2023-10-21,Traci Lopez,Smartphone,Europe,Kayla Smith,,757.52,
+ORD-00295,2023-10-22,Monica Wright,Laptop,North America,Regina Hopkins,17.0,147.87,2513.79
+ORD-00296,2023-10-23,Richard Thompson,Tablet,Europe,Mariah Allen,15.0,270.24,4053.6000000000004
+ORD-00297,2023-10-24,Denise Myers,Tablet,South America,Michael Martin,2.0,821.1,1642.2
+ORD-00298,2023-10-25,Francisco Callahan,Smartphone,Asia,Ashley Smith,7.0,296.52,2075.64
+ORD-00299,2023-10-26,Tyler Mccoy,Tablet,North America,Bethany Smith,6.0,247.55,1485.3000000000002
+ORD-00300,2023-10-27,Lisa Miller,Smartphone,Europe,Michael Garcia,19.0,64.02,1216.3799999999999
+ORD-00301,2023-10-28,Lisa Jones,Smartphone,North America,Brandy Scott,19.0,787.47,14961.93
+ORD-00302,2023-10-29,Steven Barnett,Tablet,Europe,Courtney Miller,8.0,82.65,661.2
+ORD-00303,2023-10-30,Marie Sullivan,Laptop,North America,Heather Greer,9.0,243.46,2191.14
+ORD-00304,2023-10-31,Bruce Tapia,Laptop,,Ryan Galloway,9.0,916.09,8244.81
+ORD-00305,2023-11-01,Rebecca Miller,Tablet,,Shelly Owens,3.0,228.04,684.12
+ORD-00306,2023-11-02,Luis Taylor,Smartphone,Asia,Tara Hebert,17.0,867.43,14746.31
+ORD-00307,2023-11-03,Kristen Rosales,Smartphone,North America,Mary Davis,,179.14,
+ORD-00308,2023-11-04,Melissa Walker,Smartphone,North America,Timothy Clark,17.0,701.39,11923.63
+ORD-00309,2023-11-05,Dorothy Williams,Laptop,North America,Kenneth Evans,19.0,119.26,2265.94
+ORD-00310,2023-11-06,Mr. Christopher Mckay,Tablet,North America,Cody Carter,13.0,349.3,4540.900000000001
+ORD-00311,2023-11-07,Kurt Perry,Laptop,South America,Julie Mooney,1.0,576.79,576.79
+ORD-00312,2023-11-08,Linda Cole,Tablet,Europe,Mary Blevins,12.0,147.32,1767.84
+ORD-00313,2023-11-09,Jessica Navarro,Laptop,South America,Roberto Schultz,16.0,318.63,5098.08
+ORD-00314,2023-11-10,John Williams,Tablet,North America,Jason Cruz,1.0,475.97,475.97
+ORD-00315,2023-11-11,Nicholas Barron,Tablet,South America,Rachel Benson,,213.43,
+ORD-00316,2023-11-12,David Wright,Laptop,North America,Summer Paul,7.0,315.1,2205.7000000000003
+ORD-00317,2023-11-13,Jeffery Miranda,Laptop,Asia,Sherry Tate DVM,11.0,65.39,719.29
+ORD-00318,2023-11-14,Dr. Rachel Torres,Tablet,Asia,Russell Rodriguez,10.0,983.38,9833.8
+ORD-00319,2023-11-15,Joshua Robinson,,Asia,James Stephens,6.0,795.84,4775.04
+ORD-00320,2023-11-16,Allen Pierce,Laptop,North America,Parker Johnson,4.0,264.89,1059.56
+ORD-00321,2023-11-17,Emily Malone,Tablet,Europe,Ian Woodward,13.0,691.17,8985.21
+ORD-00322,2023-11-18,Allison Romero,Tablet,,Rebecca Kennedy,9.0,53.32,479.88
+ORD-00323,2023-11-19,Allison Hall,Laptop,North America,Virginia Romero,16.0,667.18,10674.88
+ORD-00324,2023-11-20,Luis Sawyer,Tablet,Europe,Brandon Ross,13.0,,
+ORD-00325,2023-11-21,Brian White,Laptop,North America,Mrs. Sherry Franklin,7.0,676.56,4735.92
+ORD-00326,2023-11-22,Sonya Barnes,Tablet,Asia,Maureen George,11.0,346.25,3808.75
+ORD-00327,2023-11-23,Connie Moore,Tablet,Asia,Johnny Hughes,19.0,253.45,4815.55
+ORD-00328,2023-11-24,Melanie Robinson,Smartphone,North America,Angela Hammond,6.0,789.3,4735.799999999999
+ORD-00329,2023-11-25,Kristen Hickman,Smartphone,South America,Debra Hughes,5.0,422.92,2114.6
+ORD-00330,2023-11-26,Edward Murphy,Tablet,Asia,Troy Short,14.0,70.94,993.16
+ORD-00331,2023-11-27,Janet Hunter,Smartphone,South America,Ms. Aimee Lang,3.0,431.9,1295.6999999999998
+ORD-00332,2023-11-28,Sherri Anderson,Tablet,Asia,Valerie Ward,7.0,,
+ORD-00333,2023-11-29,Steven Miller,Laptop,South America,Kevin Williams,3.0,477.1,1431.3000000000002
+ORD-00334,2023-11-30,John Franco,Tablet,,Charles Jimenez,12.0,164.76,1977.12
+ORD-00335,2023-12-01,Robert Waller,Tablet,South America,Richard Lee,14.0,768.21,10754.94
+ORD-00336,2023-12-02,Benjamin Velez,Tablet,North America,Michael Diaz,17.0,377.87,6423.79
+ORD-00337,2023-12-03,Joanne Reed,Tablet,South America,Gene Jones,4.0,83.76,335.04
+ORD-00338,2023-12-04,Danielle Ferrell,Laptop,Europe,Karen Friedman,5.0,241.32,1206.6
+ORD-00339,2023-12-05,Michael Booth,Smartphone,South America,Daniel Alexander,5.0,600.81,3004.0499999999997
+ORD-00340,2023-12-06,Kelsey Fernandez,Smartphone,Asia,Nicholas Neal,15.0,944.02,14160.3
+ORD-00341,2023-12-07,Timothy Curtis,Smartphone,North America,Barbara Hill,11.0,989.97,10889.67
+ORD-00342,2023-12-08,Joanna Montgomery,Tablet,Asia,Nicholas Strong,6.0,451.35,2708.1000000000004
+ORD-00343,2023-12-09,Craig Dominguez,Laptop,Europe,Pamela Richardson,,963.2,
+ORD-00344,2023-12-10,Aaron Carey,Smartphone,South America,Christina Meyer,13.0,484.3,6295.900000000001
+ORD-00345,2023-12-11,David Davis,Laptop,South America,Vanessa Hamilton,17.0,703.58,11960.86
+ORD-00346,2023-12-12,Christopher Mason,Tablet,North America,Kim Singleton,3.0,506.93,1520.79
+ORD-00347,2023-12-13,Benjamin Taylor,Laptop,North America,Kim Rodgers,15.0,919.19,13787.85
+ORD-00348,2023-12-14,Jacqueline Benton,Laptop,Asia,Christopher Reed,,963.58,
+ORD-00349,2023-12-15,Mark Odonnell,Smartphone,Europe,Danielle Davis,1.0,740.49,740.49
+ORD-00350,2023-12-16,Amanda Ross,Laptop,Europe,Bryan Bennett,11.0,752.08,8272.880000000001
+ORD-00351,2023-12-17,Mr. Cameron Reed MD,Smartphone,Europe,Joshua Robinson,16.0,242.51,3880.16
+ORD-00352,2023-12-18,Christina Kennedy,Laptop,Asia,Kyle Fox,9.0,594.2,5347.8
+ORD-00353,2023-12-19,John Wilcox,Laptop,Europe,Samantha Thomas,6.0,907.68,5446.08
+ORD-00354,2023-12-20,John Frank,Smartphone,Europe,Abigail Ingram,14.0,52.25,731.5
+ORD-00355,2023-12-21,Amy Mosley,Laptop,North America,Amanda Sharp,9.0,452.87,4075.83
+ORD-00356,2023-12-22,Sarah Newton,Laptop,,Michael Williams,16.0,343.63,5498.08
+ORD-00357,2023-12-23,Mary Donaldson,,North America,Emily Jenkins,16.0,53.9,862.4
+ORD-00358,2023-12-24,Amanda Hernandez,Smartphone,South America,Brandon Bonilla,17.0,102.64,1744.88
+ORD-00359,2023-12-25,Julie Black,Tablet,South America,Mackenzie Peterson,10.0,272.42,2724.2000000000003
+ORD-00360,2023-12-26,Mrs. Jasmine Cisneros DDS,Laptop,South America,Sheila Ferguson,12.0,189.26,2271.12
+ORD-00361,2023-12-27,Aimee Jacobson,Smartphone,Asia,John Sexton,,578.74,
+ORD-00362,2023-12-28,Ryan Mccarthy,Laptop,North America,Kim Morris,16.0,545.88,8734.08
+ORD-00363,2023-12-29,Kevin Horton,Smartphone,North America,Mary Hampton,4.0,830.58,3322.32
+ORD-00364,2023-12-30,David Khan,Tablet,Europe,Melissa Taylor,15.0,432.17,6482.55
+ORD-00365,2023-12-31,Shirley Conner,Laptop,North America,Alexandra Oconnor,7.0,818.02,5726.139999999999
+ORD-00366,2024-01-01,Cathy Vaughn,Laptop,Europe,Carlos Middleton,7.0,520.2,3641.4000000000005
+ORD-00367,2024-01-02,Sandra Morris,Laptop,South America,Steve Ramirez,16.0,962.68,15402.88
+ORD-00368,2024-01-03,Stephen Lynn,Smartphone,Asia,Christopher Riley,6.0,930.73,5584.38
+ORD-00369,2024-01-04,Bill Jones,Tablet,South America,Savannah Willis,14.0,981.56,13741.84
+ORD-00370,2024-01-05,Caroline Ray,Smartphone,Asia,Kristen Taylor,4.0,792.0,3168.0
+ORD-00371,2024-01-06,Edwin Martinez,Tablet,South America,Julie Reed,1.0,649.63,649.63
+ORD-00372,2024-01-07,Christine Garcia,Smartphone,North America,Brian Suarez DDS,2.0,687.32,1374.64
+ORD-00373,2024-01-08,Danielle Riggs,Laptop,South America,David Luna,11.0,263.66,2900.26
+ORD-00374,2024-01-09,Thomas Cooper,Tablet,Asia,Kevin Brown,2.0,650.22,1300.44
+ORD-00375,2024-01-10,Michelle Thornton,Smartphone,,Ashley Benton,11.0,837.17,9208.869999999999
+ORD-00376,2024-01-11,Brett Hayden,Smartphone,South America,James Cross,17.0,717.27,12193.59
+ORD-00377,2024-01-12,Rebecca Carlson,,South America,Kim Melton,8.0,414.09,3312.72
+ORD-00378,2024-01-13,Corey Morgan,Smartphone,North America,Tyrone Gonzalez,5.0,578.26,2891.3
+ORD-00379,2024-01-14,Raymond Howard,Tablet,North America,Amber Turner,5.0,571.29,2856.45
+ORD-00380,2024-01-15,Nicole Berry,Laptop,Asia,Kathryn Taylor,9.0,169.97,1529.73
+ORD-00381,2024-01-16,Roger Hughes,,North America,Gwendolyn Hill,19.0,780.46,14828.740000000002
+ORD-00382,2024-01-17,Brandon Murray,Tablet,Asia,Erin Rodriguez,10.0,,
+ORD-00383,2024-01-18,Tiffany Adams,Laptop,Europe,John Sparks,18.0,79.19,1425.42
+ORD-00384,2024-01-19,Zachary Acosta,Laptop,Europe,Julie Brown MD,1.0,396.47,396.47
+ORD-00385,2024-01-20,Luke Porter,Smartphone,Europe,Thomas Moore,2.0,609.09,1218.18
+ORD-00386,2024-01-21,Diane Watson,Laptop,South America,Grant Grant,17.0,544.97,9264.49
+ORD-00387,2024-01-22,Steven Williams,Laptop,Europe,Terri Keller,17.0,887.89,15094.13
+ORD-00388,2024-01-23,Gregory Kennedy,Smartphone,Asia,Jo Bruce,4.0,835.89,3343.56
+ORD-00389,2024-01-24,Laura Hart,Laptop,South America,Felicia Nelson,19.0,104.47,1984.93
+ORD-00390,2024-01-25,Brian Nicholson,Laptop,South America,Megan Davis,17.0,828.6,14086.2
+ORD-00391,2024-01-26,Anthony Brown,Laptop,South America,Robert Price,,,
+ORD-00392,2024-01-27,Kaylee Luna,Smartphone,North America,John Ochoa,12.0,111.36,1336.32
+ORD-00393,2024-01-28,Susan Ballard,Laptop,,Daisy Johnson,3.0,548.68,1646.04
+ORD-00394,2024-01-29,Jacob Smith,Smartphone,North America,Shawn Ware,,92.15,
+ORD-00395,2024-01-30,Mariah Gates,Tablet,North America,Kathryn Proctor,5.0,,
+ORD-00396,2024-01-31,Kyle Macdonald,Smartphone,North America,Joshua Galvan,16.0,906.5,14504.0
+ORD-00397,2024-02-01,Susan Sandoval,Smartphone,,Joshua Woods,3.0,505.43,1516.29
+ORD-00398,2024-02-02,Nicholas Grimes,Smartphone,Asia,Anthony Evans,15.0,188.61,2829.15
+ORD-00399,2024-02-03,Donna Suarez,Laptop,South America,Bryce Reynolds,10.0,576.01,5760.1
+ORD-00400,2024-02-04,Michelle Rivera,Tablet,,Robert Blackburn,6.0,361.67,2170.02
+ORD-00401,2024-02-05,Rita Davis,Smartphone,South America,Amanda Bowers,8.0,678.9,5431.2
+ORD-00402,2024-02-06,Andrea Schneider,Tablet,North America,Felicia Elliott,16.0,171.16,2738.56
+ORD-00403,2024-02-07,Karen Cervantes,Smartphone,North America,Michele Moore,3.0,888.76,2666.2799999999997
+ORD-00404,2024-02-08,Matthew Murray,Smartphone,Asia,Mrs. Jessica Garrett DDS,14.0,57.03,798.4200000000001
+ORD-00405,2024-02-09,Briana Brown,Smartphone,South America,Zachary King,7.0,896.52,6275.639999999999
+ORD-00406,2024-02-10,Antonio Schwartz,Smartphone,Europe,Mr. Michael Contreras,15.0,922.98,13844.7
+ORD-00407,2024-02-11,Mark Jackson,Tablet,North America,Alexandra Smith,1.0,957.1,957.1
+ORD-00408,2024-02-12,Thomas Jackson,Tablet,Europe,Tim Johnson,4.0,749.46,2997.84
+ORD-00409,2024-02-13,Misty Hunt,Tablet,,Dawn Deleon,8.0,301.97,2415.76
+ORD-00410,2024-02-14,Erica Harris,Tablet,Europe,Taylor Simmons,16.0,676.45,10823.2
+ORD-00411,2024-02-15,Katherine Webb,Smartphone,North America,Jonathan Mcdonald,10.0,275.08,2750.7999999999997
+ORD-00412,2024-02-16,Mary Martinez,Tablet,Europe,Cassandra Sanchez,16.0,280.82,4493.12
+ORD-00413,2024-02-17,Gregory Bauer,Tablet,South America,Tonya Ellison,13.0,459.67,5975.71
+ORD-00414,2024-02-18,Calvin Pope,Smartphone,South America,Daniel Fuller,16.0,217.79,3484.64
+ORD-00415,2024-02-19,Gary Jimenez,Smartphone,South America,Colin Williams,12.0,721.14,8653.68
+ORD-00416,2024-02-20,James Butler,Smartphone,South America,Gina Ferguson,4.0,521.5,2086.0
+ORD-00417,2024-02-21,Dawn Wolf DDS,Tablet,South America,Nicholas Wilson,7.0,803.2,5622.400000000001
+ORD-00418,2024-02-22,Robert Martinez,,Europe,John Duncan,10.0,505.93,5059.3
+ORD-00419,2024-02-23,Ana Walker,Smartphone,South America,William Hernandez,5.0,90.85,454.25
+ORD-00420,2024-02-24,Robyn Morrison,Tablet,Europe,Jean Jackson,13.0,151.26,1966.3799999999999
+ORD-00421,2024-02-25,Curtis Boone,Tablet,Europe,Paula Aguilar,3.0,746.1,2238.3
+ORD-00422,2024-02-26,Dylan Jensen,Laptop,Europe,Allison Davis,5.0,377.86,1889.3000000000002
+ORD-00423,2024-02-27,Daniel Bowman,,North America,Jessica Morgan,17.0,546.36,9288.12
+ORD-00424,2024-02-28,Mark Wilson,Smartphone,South America,Andrea Woods,7.0,965.05,6755.349999999999
+ORD-00425,2024-02-29,Jessica Herrera,Smartphone,North America,Jon Coffey,15.0,998.27,14974.05
+ORD-00426,2024-03-01,Sara Frazier,Laptop,South America,Derrick Brown,5.0,287.05,1435.25
+ORD-00427,2024-03-02,Donna Young,Tablet,Asia,Dylan Wilson,1.0,327.53,327.53
+ORD-00428,2024-03-03,Ashley Craig,Laptop,Asia,Leonard Walter,3.0,373.0,1119.0
+ORD-00429,2024-03-04,John Guerra,Tablet,North America,Kaitlin Olson,16.0,918.9,14702.4
+ORD-00430,2024-03-05,Brenda King,Smartphone,Asia,Sean Harris,5.0,993.13,4965.65
+ORD-00431,2024-03-06,Molly Adams,Laptop,Europe,Christopher Gregory,5.0,195.28,976.4
+ORD-00432,2024-03-07,Andrew Wright,Smartphone,Asia,Timothy Fowler,15.0,804.58,12068.7
+ORD-00433,2024-03-08,Brooke Saunders,Laptop,South America,Rebecca Perry,5.0,857.98,4289.9
+ORD-00434,2024-03-09,David Carter,Smartphone,South America,Julian Stewart,14.0,407.37,5703.18
+ORD-00435,2024-03-10,Gregory Snow,Smartphone,North America,Ryan Fernandez,14.0,112.07,1568.98
+ORD-00436,2024-03-11,Angela Smith,Laptop,Asia,Laura Frazier,4.0,56.17,224.68
+ORD-00437,2024-03-12,Jason Edwards,Tablet,South America,Wendy Curtis,10.0,188.67,1886.6999999999998
+ORD-00438,2024-03-13,Michael Ramos,Laptop,South America,Dr. Thomas Yu Jr.,2.0,744.26,1488.52
+ORD-00439,2024-03-14,Donald Estes,Smartphone,Asia,Aaron Turner,2.0,407.25,814.5
+ORD-00440,2024-03-15,Robin Baker,Tablet,South America,Jennifer Kennedy,15.0,920.51,13807.65
+ORD-00441,2024-03-16,Peggy Meyer,Laptop,Europe,Richard Williams,5.0,317.82,1589.1
+ORD-00442,2024-03-17,Christian Palmer,Tablet,Europe,Cynthia Patel,17.0,645.35,10970.95
+ORD-00443,2024-03-18,Stephen Bradley,Tablet,North America,Charles Smith,7.0,62.12,434.84
+ORD-00444,2024-03-19,Nathan Mills,Tablet,,Andrea Underwood DVM,11.0,165.72,1822.92
+ORD-00445,2024-03-20,Melissa Price,Tablet,,Christopher Smith,13.0,930.04,12090.52
+ORD-00446,2024-03-21,Charles Stokes,Tablet,,Juan Jordan,16.0,555.82,8893.12
+ORD-00447,2024-03-22,John Roberts,Smartphone,South America,Daniel Davis,14.0,848.72,11882.08
+ORD-00448,2024-03-23,Raymond Arnold,Laptop,South America,Jamie Reed,11.0,636.85,7005.35
+ORD-00449,2024-03-24,Edward Stark,,Europe,Jeffrey King,2.0,60.86,121.72
+ORD-00450,2024-03-25,Matthew Benton,Laptop,North America,Justin Miller,5.0,,
+ORD-00451,2024-03-26,Tiffany Stewart,Tablet,South America,Shelby Garcia,19.0,892.91,16965.29
+ORD-00452,2024-03-27,Kevin Scott,Laptop,,Jonathon Meyers,3.0,976.71,2930.13
+ORD-00453,2024-03-28,William Wright,Smartphone,Asia,Katherine Ortiz,18.0,479.9,8638.199999999999
+ORD-00454,2024-03-29,Curtis Silva,Smartphone,South America,Deborah Smith,19.0,,
+ORD-00455,2024-03-30,Alexis Pittman,Smartphone,South America,Allison Brown,11.0,502.87,5531.57
+ORD-00456,2024-03-31,Victoria Baker,Laptop,Europe,John Carrillo,18.0,158.01,2844.18
+ORD-00457,2024-04-01,Andrew Chang,Tablet,South America,Chad Burnett,10.0,630.53,6305.299999999999
+ORD-00458,2024-04-02,Jesus Wallace,Laptop,South America,Angela Townsend,5.0,91.65,458.25
+ORD-00459,2024-04-03,Ricky Hill,Laptop,Asia,Justin Harris,16.0,798.53,12776.48
+ORD-00460,2024-04-04,Todd Jackson,Tablet,North America,Clifford Chandler,4.0,354.79,1419.16
+ORD-00461,2024-04-05,William Walker,Tablet,,Melissa Gray DVM,2.0,523.95,1047.9
+ORD-00462,2024-04-06,Andrew Perez,Smartphone,Asia,Ryan Sharp,8.0,471.92,3775.36
+ORD-00463,2024-04-07,Daniel Smith,Tablet,North America,Selena Johnston,12.0,,
+ORD-00464,2024-04-08,Jamie Perez,Laptop,Asia,Tracy Glenn,15.0,782.77,11741.55
+ORD-00465,2024-04-09,Gregory Schultz,Smartphone,North America,Daniel Blanchard,15.0,428.27,6424.049999999999
+ORD-00466,2024-04-10,Stephanie Gonzales,Smartphone,North America,Laura Brown,3.0,251.33,753.99
+ORD-00467,2024-04-11,Melinda Dixon,Smartphone,North America,David Morris Jr.,6.0,544.95,3269.7000000000003
+ORD-00468,2024-04-12,Bryan Watts,Smartphone,North America,Eric Sullivan,6.0,,
+ORD-00469,2024-04-13,Jacob Martinez,Laptop,South America,Richard Rollins,14.0,625.99,8763.86
+ORD-00470,2024-04-14,Ashley Myers,Smartphone,Asia,Brian Patel,13.0,941.65,12241.449999999999
+ORD-00471,2024-04-15,Juan Delacruz,Tablet,North America,Kathleen Berry,4.0,207.73,830.92
+ORD-00472,2024-04-16,Julian Myers,Laptop,Europe,Sarah Gonzales,4.0,679.72,2718.88
+ORD-00473,2024-04-17,Ryan Turner,Smartphone,South America,Frank Martinez,10.0,322.76,3227.6
+ORD-00474,2024-04-18,Bryan Roberts,Tablet,Europe,Rebecca Mills,1.0,761.79,761.79
+ORD-00475,2024-04-19,Edward Chang,Laptop,South America,Stacy Smith,7.0,440.35,3082.4500000000003
+ORD-00476,2024-04-20,Emily King,Laptop,Europe,Kristi Walsh,7.0,838.7,5870.900000000001
+ORD-00477,2024-04-21,Jonathan Smith,Laptop,South America,Jared Lawrence,10.0,993.14,9931.4
+ORD-00478,2024-04-22,Zachary Singleton,Tablet,Asia,Timothy Navarro,19.0,490.53,9320.07
+ORD-00479,2024-04-23,Jessica Warner,Tablet,Asia,Maria Brown,13.0,580.2,7542.6
+ORD-00480,2024-04-24,John Smith,Smartphone,Asia,Karen Holt,9.0,363.3,3269.7000000000003
+ORD-00481,2024-04-25,Alan Adams,Laptop,South America,Michael Jones,2.0,308.33,616.66
+ORD-00482,2024-04-26,Mary Bridges,Tablet,Asia,Derek Black,6.0,913.32,5479.92
+ORD-00483,2024-04-27,Mitchell Dudley,Tablet,Asia,Mrs. Krista Brown,2.0,585.63,1171.26
+ORD-00484,2024-04-28,Jasmine Weaver,Smartphone,Europe,Julie Jones,12.0,157.75,1893.0
+ORD-00485,2024-04-29,Robin Wilson,,South America,Timothy Clarke,17.0,,
+ORD-00486,2024-04-30,James Henson,Smartphone,Asia,Christopher Gomez,18.0,921.74,16591.32
+ORD-00487,2024-05-01,Jody Reynolds,Laptop,,Benjamin Brown,16.0,726.88,11630.08
+ORD-00488,2024-05-02,Margaret Willis,Laptop,North America,Timothy Lewis,8.0,909.47,7275.76
+ORD-00489,2024-05-03,Cindy Taylor,Laptop,Asia,Michelle Wilson,17.0,684.72,11640.24
+ORD-00490,2024-05-04,Matthew Jones,Laptop,North America,Susan Perry,9.0,86.87,781.83
+ORD-00491,2024-05-05,Tyrone Blanchard,Tablet,,Kevin Martinez,4.0,155.4,621.6
+ORD-00492,2024-05-06,Richard Smith,Smartphone,Europe,Leslie Ramirez,5.0,753.09,3765.4500000000003
+ORD-00493,2024-05-07,George Clark,Laptop,South America,Andrea Nelson,12.0,218.49,2621.88
+ORD-00494,2024-05-08,Matthew Watson,Tablet,North America,Brittney Turner,11.0,607.92,6687.12
+ORD-00495,2024-05-09,Katherine Murphy,Tablet,Europe,John Robles,17.0,306.41,5208.97
+ORD-00496,2024-05-10,Tracy Schmidt,Tablet,Europe,David Anderson,15.0,713.82,10707.300000000001
+ORD-00497,2024-05-11,Tina Carter,Laptop,South America,Angela Horne,14.0,413.61,5790.54
+ORD-00498,2024-05-12,Courtney Haynes,Tablet,Asia,Roger Bartlett,16.0,919.43,14710.88
+ORD-00499,2024-05-13,Tina Turner,Laptop,Asia,Victoria Watson,19.0,292.09,5549.709999999999
+ORD-00500,2024-05-14,Allison White MD,Laptop,North America,Amy Foley,19.0,277.36,5269.84
+ORD-00501,2024-05-15,Lance Patterson,Tablet,North America,Cynthia Rasmussen,,799.69,
+ORD-00502,2024-05-16,Levi Mitchell,Smartphone,Europe,Heather Blake,9.0,798.65,7187.849999999999
+ORD-00503,2024-05-17,Lisa Rodriguez,Tablet,Asia,Marilyn Jones,9.0,810.91,7298.19
+ORD-00504,2024-05-18,Terri Gonzalez,Tablet,Asia,Eileen Olson,15.0,204.7,3070.5
+ORD-00505,2024-05-19,Miguel Thompson,Tablet,Europe,Kimberly Schroeder,9.0,394.64,3551.7599999999998
+ORD-00506,2024-05-20,Connor Taylor,Smartphone,Europe,William Johnson,10.0,851.95,8519.5
+ORD-00507,2024-05-21,Donna Wilkinson,Tablet,South America,Thomas Ortiz,7.0,972.07,6804.490000000001
+ORD-00508,2024-05-22,Ivan Campbell,Smartphone,Europe,Mitchell Williamson,18.0,113.24,2038.32
+ORD-00509,2024-05-23,Ashley Jordan,Tablet,Europe,Mrs. Mandy Villanueva DDS,,694.13,
+ORD-00510,2024-05-24,Danny Rodriguez,Laptop,Europe,Gary Alvarado,1.0,501.67,501.67
+ORD-00511,2024-05-25,Michael Cooper,Laptop,North America,Gregory Russell,6.0,323.27,1939.62
+ORD-00512,2024-05-26,Jennifer Perez,Laptop,Europe,Jeffrey Vargas,3.0,255.35,766.05
+ORD-00513,2024-05-27,Heather Mendez,Smartphone,South America,Catherine Herrera,16.0,,
+ORD-00514,2024-05-28,Sarah Nolan,Smartphone,Europe,Jared Wood,5.0,983.07,4915.35
+ORD-00515,2024-05-29,Dr. Jacob Kirby,Laptop,Asia,Matthew Long,16.0,995.28,15924.48
+ORD-00516,2024-05-30,Dr. Anthony Price MD,Smartphone,South America,Shirley Hunt,9.0,239.77,2157.9300000000003
+ORD-00517,2024-05-31,Matthew Gibson,Smartphone,North America,Christopher Hill,4.0,172.43,689.72
+ORD-00518,2024-06-01,Joshua Perkins,Smartphone,South America,Audrey Watts,2.0,870.93,1741.86
+ORD-00519,2024-06-02,Michael Wells,Smartphone,North America,Timothy Combs,6.0,493.49,2960.94
+ORD-00520,2024-06-03,David Ortiz,Smartphone,Asia,Priscilla Diaz,6.0,655.21,3931.26
+ORD-00521,2024-06-04,Kristin Smith,Tablet,North America,Kelly Salazar,19.0,844.01,16036.19
+ORD-00522,2024-06-05,Matthew Ford,Laptop,South America,Nicole Robinson,6.0,218.37,1310.22
+ORD-00523,2024-06-06,Rachel Osborne,Laptop,Europe,Stephanie Roach,6.0,903.0,5418.0
+ORD-00524,2024-06-07,Ana Fisher,Laptop,North America,Mary Clark,14.0,298.62,4180.68
+ORD-00525,2024-06-08,John Mason,Smartphone,Europe,Jasmine Rios,13.0,962.71,12515.23
+ORD-00526,2024-06-09,Dana Garza,Laptop,North America,Emily Smith,8.0,114.14,913.12
+ORD-00527,2024-06-10,Tammy Best,Tablet,Europe,John Poole,4.0,170.24,680.96
+ORD-00528,2024-06-11,Michael Wood,Tablet,Asia,Alicia Young,4.0,368.38,1473.52
+ORD-00529,2024-06-12,Joseph Sampson,Smartphone,Europe,Paul Figueroa,4.0,551.24,2204.96
+ORD-00530,2024-06-13,Ricardo Hood,Smartphone,Asia,John Nixon,11.0,292.56,3218.16
+ORD-00531,2024-06-14,Ronald Snyder,Smartphone,North America,Caitlyn Murphy,14.0,792.72,11098.08
+ORD-00532,2024-06-15,Deborah Castro,Tablet,North America,Vanessa Collier,8.0,783.43,6267.44
+ORD-00533,2024-06-16,Christopher Sanders,Smartphone,South America,Allison Pierce,1.0,84.4,84.4
+ORD-00534,2024-06-17,Brenda Maddox,Laptop,South America,Todd Wells,5.0,614.28,3071.3999999999996
+ORD-00535,2024-06-18,Karen Sanchez,Smartphone,Europe,Stacey Young,7.0,619.99,4339.93
+ORD-00536,2024-06-19,Veronica Brown,Smartphone,,Diana Byrd,19.0,734.68,13958.919999999998
+ORD-00537,2024-06-20,Ryan Barnes,Laptop,Asia,Paula Harper,13.0,853.82,11099.66
+ORD-00538,2024-06-21,Angela Lopez,Tablet,Asia,Ian Cantu,,,
+ORD-00539,2024-06-22,Gregory Alexander,Smartphone,North America,Anthony Evans,,159.88,
+ORD-00540,2024-06-23,Jacqueline Riley,Smartphone,South America,Melissa Cross,18.0,255.38,4596.84
+ORD-00541,2024-06-24,Parker Miller,Tablet,South America,Bryan Walker,9.0,678.13,6103.17
+ORD-00542,2024-06-25,Steven Santana,Tablet,South America,Amy Clark,3.0,837.88,2513.64
+ORD-00543,2024-06-26,Dennis Alexander,,North America,Maria Townsend,9.0,416.9,3752.1
+ORD-00544,2024-06-27,Randy Romero,,Asia,Brittany Garcia,12.0,878.61,10543.32
+ORD-00545,2024-06-28,Michele Vaughan,Tablet,North America,Denise Dunlap,6.0,277.28,1663.6799999999998
+ORD-00546,2024-06-29,Glenn White,Smartphone,South America,Samuel Smith,5.0,785.1,3925.5
+ORD-00547,2024-06-30,Gregory Hamilton,Laptop,Europe,George Holmes,18.0,369.01,6642.18
+ORD-00548,2024-07-01,Brenda Turner,Smartphone,Asia,Brent Taylor,11.0,856.55,9422.05
+ORD-00549,2024-07-02,Heather Moreno,Tablet,South America,Robert Watson,2.0,691.87,1383.74
+ORD-00550,2024-07-03,Emily Walters,Laptop,Europe,Mrs. Jennifer Kemp,16.0,851.31,13620.96
+ORD-00551,2024-07-04,Chelsea Reese,Laptop,Europe,Nancy Frederick,10.0,794.94,7949.400000000001
+ORD-00552,2024-07-05,Laura Smith,Tablet,Asia,Beth Mills,8.0,333.85,2670.8
+ORD-00553,2024-07-06,Michelle Wright,Laptop,South America,Mark Armstrong,14.0,,
+ORD-00554,2024-07-07,Jeanne Stewart,Laptop,Asia,Hailey Hanna,1.0,685.63,685.63
+ORD-00555,2024-07-08,Daniel Davis,Laptop,Europe,Kimberly Gray,18.0,640.19,11523.420000000002
+ORD-00556,2024-07-09,Andrea Adams,Smartphone,Asia,April Alexander,1.0,,
+ORD-00557,2024-07-10,Cody Roberts,Laptop,Europe,Bradley Cuevas,10.0,,
+ORD-00558,2024-07-11,Caroline Garcia,Tablet,Europe,Jennifer Lewis,6.0,602.46,3614.76
+ORD-00559,2024-07-12,Christopher Torres,Tablet,North America,Brandy Flowers,11.0,427.49,4702.39
+ORD-00560,2024-07-13,Mary Ross,Smartphone,Asia,Daniel Miller,5.0,861.22,4306.1
+ORD-00561,2024-07-14,Amy Martin,Smartphone,Asia,Joe Dudley,5.0,486.42,2432.1
+ORD-00562,2024-07-15,Maria Davis,Tablet,South America,Mark Stevenson,15.0,722.92,10843.8
+ORD-00563,2024-07-16,Joshua Gonzalez,Smartphone,Europe,Yvonne Kelley,19.0,399.56,7591.64
+ORD-00564,2024-07-17,Eric Green,Tablet,Asia,Gary Lopez,15.0,270.51,4057.6499999999996
+ORD-00565,2024-07-18,Krystal Myers,Laptop,North America,Megan Parker,3.0,277.0,831.0
+ORD-00566,2024-07-19,Kristen Wilson,Laptop,Asia,Jane Saunders,1.0,600.72,600.72
+ORD-00567,2024-07-20,Kurt Dixon,Tablet,North America,Emily Franklin,12.0,458.76,5505.12
+ORD-00568,2024-07-21,Natalie Arroyo,Smartphone,Asia,Timothy Aguilar,8.0,442.77,3542.16
+ORD-00569,2024-07-22,Kathryn Estes MD,Tablet,North America,Danielle Garcia,2.0,378.57,757.14
+ORD-00570,2024-07-23,Victoria Bishop,Tablet,Asia,Jodi Chapman,10.0,370.33,3703.2999999999997
+ORD-00571,2024-07-24,Jordan Irwin,Smartphone,Asia,Heather Greene,,409.1,
+ORD-00572,2024-07-25,Nicholas King,Tablet,North America,Alyssa Johnson,1.0,70.24,70.24
+ORD-00573,2024-07-26,Matthew Whitehead,Smartphone,South America,Matthew Boyd,14.0,507.17,7100.38
+ORD-00574,2024-07-27,Mark Reynolds,Tablet,South America,Kevin Hernandez,17.0,885.61,15055.37
+ORD-00575,2024-07-28,Kimberly Liu,Tablet,South America,Karen Stevens,5.0,738.24,3691.2
+ORD-00576,2024-07-29,Anna Williams,Laptop,North America,Scott Sparks,17.0,303.59,5161.03
+ORD-00577,2024-07-30,Dr. Gregory Wright,Tablet,Europe,Tyler Cameron,14.0,490.56,6867.84
+ORD-00578,2024-07-31,Alexa Sanders,Smartphone,North America,Jeffrey Adams,12.0,573.24,6878.88
+ORD-00579,2024-08-01,Alyssa Bennett,Laptop,Europe,Catherine Harris,,820.63,
+ORD-00580,2024-08-02,Emily Greene,Smartphone,South America,Angelica Johnson,10.0,,
+ORD-00581,2024-08-03,Terri Williams,Tablet,Europe,Casey Moore,1.0,990.91,990.91
+ORD-00582,2024-08-04,Tina Choi,Smartphone,South America,Joseph Parker,13.0,712.13,9257.69
+ORD-00583,2024-08-05,Kathleen Blankenship,Tablet,Asia,Francisco Ball,16.0,117.79,1884.64
+ORD-00584,2024-08-06,Elizabeth Burgess,Tablet,Europe,Dawn Barton,8.0,976.07,7808.56
+ORD-00585,2024-08-07,Jordan Manning,Laptop,Europe,Dominique Baker,17.0,716.83,12186.11
+ORD-00586,2024-08-08,Robert Neal,Laptop,Europe,Kristine Golden,4.0,241.96,967.84
+ORD-00587,2024-08-09,Anthony Thompson,Tablet,North America,Karen Williams,12.0,,
+ORD-00588,2024-08-10,Kathleen West,Smartphone,Asia,Karen Reynolds,13.0,358.35,4658.55
+ORD-00589,2024-08-11,Ralph Hines,Tablet,Asia,Dustin Crane,3.0,522.54,1567.62
+ORD-00590,2024-08-12,Natasha Hammond,,Asia,Jesse Hayes,13.0,186.7,2427.1
+ORD-00591,2024-08-13,Derrick Zavala,Smartphone,Europe,Susan Liu,6.0,470.24,2821.44
+ORD-00592,2024-08-14,Rebecca Smith,Smartphone,Europe,Cynthia Garcia,7.0,269.61,1887.27
+ORD-00593,2024-08-15,Lauren Boyd,Laptop,South America,Paul Perez,17.0,368.71,6268.07
+ORD-00594,2024-08-16,Madison Miller,Smartphone,North America,Travis Brewer,6.0,580.87,3485.2200000000003
+ORD-00595,2024-08-17,Thomas Walsh,Laptop,North America,Charles Cross,7.0,527.68,3693.7599999999998
+ORD-00596,2024-08-18,Lauren Reyes,Tablet,Europe,Kayla Nelson,10.0,731.43,7314.299999999999
+ORD-00597,2024-08-19,Mary Nelson,Smartphone,Asia,Emily Rose,2.0,207.31,414.62
+ORD-00598,2024-08-20,Shannon Montoya,Tablet,Asia,Michael Green,2.0,673.14,1346.28
+ORD-00599,2024-08-21,Ashley Hall,Laptop,North America,Michelle Gaines,2.0,970.97,1941.94
+ORD-00600,2024-08-22,Jerry Church,Tablet,South America,Kenneth Fisher,12.0,500.67,6008.04
+ORD-00601,2024-08-23,Joel Gonzalez,Laptop,Asia,Kristin Shepard,2.0,980.38,1960.76
+ORD-00602,2024-08-24,Richard Bush,Laptop,South America,Kayla Meyer,3.0,955.75,2867.25
+ORD-00603,2024-08-25,James Kirk,Laptop,South America,David Vasquez,11.0,714.2,7856.200000000001
+ORD-00604,2024-08-26,Paul Brown,,Europe,Summer Farrell,8.0,292.61,2340.88
+ORD-00605,2024-08-27,Mark Smith,Smartphone,North America,Autumn Molina,14.0,512.81,7179.339999999999
+ORD-00606,2024-08-28,Kayla Tran,Laptop,South America,Andrea White,17.0,710.06,12071.019999999999
+ORD-00607,2024-08-29,Joanne Barrera,Laptop,Asia,Andrew Hartman,9.0,739.06,6651.539999999999
+ORD-00608,2024-08-30,Sheri Carpenter,Smartphone,Europe,Richard Fields,15.0,449.95,6749.25
+ORD-00609,2024-08-31,Brianna Mitchell,Laptop,North America,James Walker,1.0,768.6,768.6
+ORD-00610,2024-09-01,Steven Fox,Tablet,Asia,Omar Pearson,5.0,405.23,2026.15
+ORD-00611,2024-09-02,Joseph Mack,Smartphone,North America,Jeffery Singh,16.0,480.06,7680.96
+ORD-00612,2024-09-03,Corey Nelson,Smartphone,Asia,George Collins,5.0,934.47,4672.35
+ORD-00613,2024-09-04,Meghan Cole,Smartphone,Europe,Anthony Carpenter,16.0,775.82,12413.12
+ORD-00614,2024-09-05,Michelle Huang,,South America,Karen Henry,19.0,918.61,17453.59
+ORD-00615,2024-09-06,James Li,Tablet,Asia,Emily Coffey,10.0,961.23,9612.3
+ORD-00616,2024-09-07,Justin Roberts,Tablet,Europe,Debra Hernandez,5.0,181.45,907.25
+ORD-00617,2024-09-08,Megan Scott,Laptop,South America,Jonathan Alexander,7.0,466.26,3263.8199999999997
+ORD-00618,2024-09-09,Linda Hess,Laptop,Asia,Monica Johnson,18.0,944.82,17006.760000000002
+ORD-00619,2024-09-10,Janet Parsons,Laptop,Asia,Shannon Ewing,5.0,519.26,2596.3
+ORD-00620,2024-09-11,Tara Foley,Tablet,North America,Tara Bell,13.0,167.47,2177.11
+ORD-00621,2024-09-12,Seth Greene,Tablet,Europe,Mark Torres,1.0,762.64,762.64
+ORD-00622,2024-09-13,Alexandria Mayer,Smartphone,Asia,Melissa Clark,2.0,334.27,668.54
+ORD-00623,2024-09-14,Cameron Palmer,Laptop,Europe,Tiffany Martinez,4.0,735.24,2940.96
+ORD-00624,2024-09-15,Kenneth Johnson,Smartphone,,Evan Rodriguez,11.0,565.16,6216.759999999999
+ORD-00625,2024-09-16,Michael Moore,Laptop,Europe,Matthew Holt,5.0,109.74,548.6999999999999
+ORD-00626,2024-09-17,Kevin Watson,Tablet,South America,Tammy Flores,9.0,572.22,5149.9800000000005
+ORD-00627,2024-09-18,Amanda Owen,Laptop,South America,Holly Schwartz,19.0,609.13,11573.47
+ORD-00628,2024-09-19,Rebecca Jones,Tablet,Europe,Kimberly Richmond,,944.87,
+ORD-00629,2024-09-20,Caitlin Jefferson,Smartphone,Europe,Jill Nelson,13.0,944.34,12276.42
+ORD-00630,2024-09-21,Joe Smith,Laptop,Asia,Zachary Gallagher,11.0,,
+ORD-00631,2024-09-22,Sandra Gentry,,South America,Melissa Clark,5.0,885.88,4429.4
+ORD-00632,2024-09-23,Casey Williams,Smartphone,North America,Laura Freeman,4.0,903.78,3615.12
+ORD-00633,2024-09-24,Andrew Kerr,Laptop,,Peggy Wilson,19.0,610.65,11602.35
+ORD-00634,2024-09-25,Chelsea Larson,Tablet,South America,Anthony Harris,16.0,122.05,1952.8
+ORD-00635,2024-09-26,Theresa Bates,Smartphone,Asia,Richard Wilson,6.0,652.17,3913.0199999999995
+ORD-00636,2024-09-27,Julie Sloan,Laptop,North America,Natalie Martin,4.0,303.06,1212.24
+ORD-00637,2024-09-28,Joseph Huynh,Tablet,Europe,Billy Lewis,10.0,654.52,6545.2
+ORD-00638,2024-09-29,Ashley Rivera,Laptop,Asia,Eric Becker,8.0,415.09,3320.72
+ORD-00639,2024-09-30,Cameron Weber,Tablet,Asia,Eric Warren,,702.24,
+ORD-00640,2024-10-01,Laurie Norris,Tablet,,Mr. Jacob White,6.0,,
+ORD-00641,2024-10-02,Jesse Herrera,Laptop,North America,William Bullock,3.0,,
+ORD-00642,2024-10-03,Julie Brooks,Tablet,Asia,Natalie Edwards,18.0,922.73,16609.14
+ORD-00643,2024-10-04,Lori Herrera,Tablet,South America,Jordan Stevens,6.0,779.54,4677.24
+ORD-00644,2024-10-05,Alexis Winters,Smartphone,North America,Monique Peters,18.0,949.53,17091.54
+ORD-00645,2024-10-06,Jennifer Ochoa,Laptop,South America,Nancy Williams,7.0,974.02,6818.139999999999
+ORD-00646,2024-10-07,Jill King,Laptop,Europe,Jennifer Jordan,12.0,157.93,1895.16
+ORD-00647,2024-10-08,Tammy Evans,Tablet,South America,Phillip Benson,12.0,61.66,739.92
+ORD-00648,2024-10-09,Barry Turner,Smartphone,Asia,Matthew Smith,9.0,860.85,7747.650000000001
+ORD-00649,2024-10-10,Robert Griffith,Laptop,North America,Jordan Garner,10.0,333.13,3331.3
+ORD-00650,2024-10-11,Heather Ortiz,Smartphone,Asia,Rachel Bennett,16.0,720.54,11528.64
+ORD-00651,2024-10-12,Jorge Flores,Laptop,Asia,Justin Miller,17.0,988.12,16798.04
+ORD-00652,2024-10-13,Carmen Scott,Smartphone,South America,Brian Vazquez,5.0,763.87,3819.35
+ORD-00653,2024-10-14,Andrea Rose,Laptop,Asia,Shawn Osborne,3.0,532.6,1597.8000000000002
+ORD-00654,2024-10-15,Nicholas Valencia,Smartphone,Europe,Jennifer Costa,6.0,335.14,2010.84
+ORD-00655,2024-10-16,Nicole Fleming,Tablet,Europe,Diana Fisher,1.0,726.45,726.45
+ORD-00656,2024-10-17,David Soto,Smartphone,North America,Kathy Williams,10.0,817.41,8174.099999999999
+ORD-00657,2024-10-18,Terry Dougherty,Tablet,North America,Maurice Howell,10.0,426.21,4262.099999999999
+ORD-00658,2024-10-19,Heidi Foster,Laptop,South America,Todd Perez,18.0,142.22,2559.96
+ORD-00659,2024-10-20,Patrick Jones,Smartphone,Europe,Megan Howard,2.0,619.29,1238.58
+ORD-00660,2024-10-21,Jennifer Lang,Laptop,South America,Amy Brown,1.0,181.7,181.7
+ORD-00661,2024-10-22,Gabriel Wilson,Smartphone,Europe,Glen Arias,3.0,883.1,2649.3
+ORD-00662,2024-10-23,William Shaffer,Tablet,South America,Kevin Jones,8.0,799.36,6394.88
+ORD-00663,2024-10-24,Sarah Burton,,Europe,Richard Avila,7.0,355.26,2486.8199999999997
+ORD-00664,2024-10-25,Deborah Johnson,Smartphone,North America,Matthew Martinez,3.0,275.59,826.77
+ORD-00665,2024-10-26,Joseph Morton,Laptop,Asia,Neil Ochoa,,935.35,
+ORD-00666,2024-10-27,Tracy Dawson,Laptop,South America,Amber Green,10.0,997.26,9972.6
+ORD-00667,2024-10-28,David Peterson,Tablet,Europe,Kristopher Allen,,404.47,
+ORD-00668,2024-10-29,Andrew Salazar,Tablet,Asia,Alisha Schroeder,5.0,497.64,2488.2
+ORD-00669,2024-10-30,Ariel Owens,Smartphone,North America,Duane Anderson,1.0,225.04,225.04
+ORD-00670,2024-10-31,Jason Wang,Tablet,South America,Kathleen Blake,17.0,802.18,13637.06
+ORD-00671,2024-11-01,Wayne Kelly,Tablet,Asia,Jermaine Lopez,18.0,,
+ORD-00672,2024-11-02,Justin Jones,Laptop,South America,Mr. Eric West,10.0,285.38,2853.8
+ORD-00673,2024-11-03,Mia Rubio,Tablet,Asia,Kimberly Davis,11.0,50.25,552.75
+ORD-00674,2024-11-04,Cory Castillo,Tablet,North America,Amanda Cox,17.0,741.15,12599.55
+ORD-00675,2024-11-05,Michael Holt,,South America,Tara Young,14.0,802.17,11230.38
+ORD-00676,2024-11-06,Andrea Payne,Laptop,North America,Howard Fields,1.0,399.76,399.76
+ORD-00677,2024-11-07,Wayne Smith,Smartphone,South America,Jessica Gillespie,3.0,,
+ORD-00678,2024-11-08,Richard Suarez,Laptop,Asia,James Martinez,2.0,524.62,1049.24
+ORD-00679,2024-11-09,Francisco Watson,,Europe,Monica Leon,14.0,934.54,13083.56
+ORD-00680,2024-11-10,Jeffrey Lam,Tablet,North America,Eugene Rogers,4.0,529.23,2116.92
+ORD-00681,2024-11-11,Jessica Wilcox,Laptop,Europe,Michael Tapia,16.0,897.76,14364.16
+ORD-00682,2024-11-12,Jeremy Coffey,,Asia,Elizabeth Holmes,14.0,275.57,3857.98
+ORD-00683,2024-11-13,Jessica Collier,Tablet,North America,Sean Griffin,6.0,430.13,2580.7799999999997
+ORD-00684,2024-11-14,Rachel Harris,Smartphone,Asia,Frank Hodges,5.0,864.69,4323.450000000001
+ORD-00685,2024-11-15,Cynthia Nelson,Smartphone,North America,Kevin Mcdonald,6.0,773.56,4641.36
+ORD-00686,2024-11-16,Brenda Deleon,Smartphone,North America,Carolyn Velez,18.0,118.35,2130.2999999999997
+ORD-00687,2024-11-17,Natasha Williams,Tablet,North America,Sandra Richmond,4.0,474.69,1898.76
+ORD-00688,2024-11-18,Justin Sweeney,Tablet,South America,Veronica Johnson,13.0,97.3,1264.8999999999999
+ORD-00689,2024-11-19,Stephanie Ortega,Smartphone,South America,Susan Cohen,17.0,536.27,9116.59
+ORD-00690,2024-11-20,Joseph Thomas,Smartphone,North America,Christopher Myers,6.0,121.06,726.36
+ORD-00691,2024-11-21,Melissa Bell MD,Smartphone,North America,Alicia Swanson,3.0,966.3,2898.8999999999996
+ORD-00692,2024-11-22,Edward Dodson,Laptop,Asia,Michelle Arnold,18.0,862.92,15532.56
+ORD-00693,2024-11-23,Lindsay Andrews,Laptop,South America,Robert Santiago,7.0,898.94,6292.58
+ORD-00694,2024-11-24,Samuel Washington,Smartphone,Asia,Patrick Greer,3.0,226.49,679.47
+ORD-00695,2024-11-25,Toni Guerra,Smartphone,Asia,Tina Price,10.0,162.18,1621.8000000000002
+ORD-00696,2024-11-26,Mr. Richard Johnson,Smartphone,Asia,Christine Cervantes,2.0,800.45,1600.9
+ORD-00697,2024-11-27,Brittany Hurst,Laptop,North America,Anne Hamilton,2.0,210.31,420.62
+ORD-00698,2024-11-28,Beth Coleman,Laptop,Asia,Jamie Randolph,6.0,783.63,4701.78
+ORD-00699,2024-11-29,Laura Cummings,Tablet,South America,Victor Wright,15.0,335.54,5033.1
+ORD-00700,2024-11-30,Gregory Bell,Laptop,Asia,Mrs. Anna Fuentes DDS,13.0,431.1,5604.3
+ORD-00701,2024-12-01,Andrew Levine,Tablet,Asia,Gene Hensley,6.0,591.19,3547.1400000000003
+ORD-00702,2024-12-02,Maurice White,Tablet,South America,Joshua Smith,5.0,495.46,2477.2999999999997
+ORD-00703,2024-12-03,Lindsey Fleming,Tablet,Asia,Debra Lynn,10.0,555.82,5558.200000000001
+ORD-00704,2024-12-04,Sara Mora,Tablet,South America,Joshua Jacobs,7.0,361.68,2531.76
+ORD-00705,2024-12-05,Dr. Karen Johnson,Laptop,,Gail Thornton,3.0,65.33,195.99
+ORD-00706,2024-12-06,Brian Ochoa,Laptop,Europe,Nicholas Chavez,9.0,718.07,6462.63
+ORD-00707,2024-12-07,Michael Vance,Smartphone,North America,Nicholas Brown,6.0,581.41,3488.46
+ORD-00708,2024-12-08,Kimberly Smith,Laptop,Europe,Tammy Martinez,19.0,301.59,5730.209999999999
+ORD-00709,2024-12-09,Jennifer Villanueva PhD,Tablet,Asia,Andrew Young,14.0,168.96,2365.44
+ORD-00710,2024-12-10,Kenneth Wade,Smartphone,Europe,Jennifer Walker MD,8.0,463.46,3707.68
+ORD-00711,2024-12-11,Stanley Bean,,North America,Kelly Carter,6.0,885.57,5313.42
+ORD-00712,2024-12-12,Carmen Snyder,Laptop,North America,Daniel Clark,,834.11,
+ORD-00713,2024-12-13,David Alexander,Smartphone,North America,Michael Dennis,17.0,,
+ORD-00714,2024-12-14,Catherine White,Laptop,North America,Emma Esparza,2.0,804.44,1608.88
+ORD-00715,2024-12-15,Katherine Rosales,Tablet,North America,Ronald Young,18.0,727.1,13087.800000000001
+ORD-00716,2024-12-16,Deborah Taylor,Smartphone,Asia,Christopher Williamson,1.0,119.32,119.32
+ORD-00717,2024-12-17,Jessica Garcia,Smartphone,Asia,Kenneth Thompson,5.0,234.18,1170.9
+ORD-00718,2024-12-18,Mary Reed,Laptop,Asia,Nicholas Sullivan,1.0,347.58,347.58
+ORD-00719,2024-12-19,Tyler Anderson,Laptop,North America,Joshua Palmer,3.0,805.69,2417.07
+ORD-00720,2024-12-20,Claire Hill,Tablet,Europe,Denise Arnold,,81.72,
+ORD-00721,2024-12-21,Maria Kramer,Laptop,South America,Tracy Richards,12.0,895.57,10746.84
+ORD-00722,2024-12-22,Natalie Pennington,Smartphone,Asia,Carla Torres,10.0,339.99,3399.9
+ORD-00723,2024-12-23,William Pittman,Tablet,South America,Ian Thomas,8.0,55.17,441.36
+ORD-00724,2024-12-24,Miss Ana Miller,Tablet,Europe,Holly Patel,9.0,225.18,2026.6200000000001
+ORD-00725,2024-12-25,Robert Smith,Tablet,Asia,Diana Owen,18.0,165.24,2974.32
+ORD-00726,2024-12-26,Jennifer Johnson MD,Laptop,Europe,Heather Adams,7.0,67.46,472.21999999999997
+ORD-00727,2024-12-27,Stacey Black,Smartphone,North America,Robert Burch,7.0,196.29,1374.03
+ORD-00728,2024-12-28,Gail Warren,Laptop,South America,Pamela Brewer,16.0,669.61,10713.76
+ORD-00729,2024-12-29,David Torres,Tablet,North America,William Clark,5.0,811.77,4058.85
+ORD-00730,2024-12-30,Teresa Lyons,Laptop,Europe,Tyler Kennedy,12.0,728.51,8742.119999999999
+ORD-00731,2024-12-31,Anthony Conner,Laptop,Europe,James Jordan,1.0,758.72,758.72
+ORD-00732,2025-01-01,Bruce Reeves,Laptop,Asia,Daniel Moore,,880.41,
+ORD-00733,2025-01-02,Jason Taylor,Laptop,South America,Jennifer Taylor,,424.63,
+ORD-00734,2025-01-03,John Wilson,Laptop,South America,Angela Baker,15.0,833.22,12498.300000000001
+ORD-00735,2025-01-04,Emily Burns,Smartphone,South America,Kristy Braun,10.0,230.43,2304.3
+ORD-00736,2025-01-05,Matthew Bennett,Smartphone,Europe,Michael Pena,12.0,865.87,10390.44
+ORD-00737,2025-01-06,Jeffrey Jones,,South America,Eric Barber,17.0,806.82,13715.94
+ORD-00738,2025-01-07,David Griffin,Smartphone,North America,Austin Villanueva,17.0,806.61,13712.37
+ORD-00739,2025-01-08,Greg Walker,Smartphone,South America,Walter Spears,3.0,512.48,1537.44
+ORD-00740,2025-01-09,Joseph Barker,Smartphone,Europe,Mr. Charles Herrera Jr.,2.0,158.63,317.26
+ORD-00741,2025-01-10,Jeremy Case,Tablet,Europe,Betty Graves,10.0,291.38,2913.8
+ORD-00742,2025-01-11,Rachel Wade,Smartphone,Asia,Cheryl Johnson,19.0,746.49,14183.31
+ORD-00743,2025-01-12,Joshua Kane,,North America,Jessica Martin,11.0,,
+ORD-00744,2025-01-13,Robert Johnson,Laptop,Europe,Jonathan Johnson,19.0,101.94,1936.86
+ORD-00745,2025-01-14,Heather Sanchez,Laptop,North America,Carol Adams,13.0,533.51,6935.63
+ORD-00746,2025-01-15,Julie Gibson,Laptop,Europe,Courtney Wood,5.0,857.44,4287.200000000001
+ORD-00747,2025-01-16,Michael Adams,Tablet,South America,Kristen Frank,16.0,395.13,6322.08
+ORD-00748,2025-01-17,Jessica Matthews,Tablet,North America,Mary Larsen,11.0,524.4,5768.4
+ORD-00749,2025-01-18,Melissa Walker,Laptop,South America,Carolyn Johnson,3.0,798.32,2394.96
+ORD-00750,2025-01-19,Patrick Price,Smartphone,Europe,Troy Mckay,18.0,603.04,10854.72
+ORD-00751,2025-01-20,Patrick Brown,Laptop,North America,Kimberly Rice,12.0,128.11,1537.3200000000002
+ORD-00752,2025-01-21,Anita Rios,Smartphone,Europe,Leslie Fowler,,643.1,
+ORD-00753,2025-01-22,Dawn Reynolds,Tablet,Europe,Alexis Fuentes,5.0,963.51,4817.55
+ORD-00754,2025-01-23,Sara Vega,Tablet,Europe,Shannon Mitchell DVM,13.0,198.19,2576.47
+ORD-00755,2025-01-24,Terry Rodriguez,Laptop,South America,Brian Kim,9.0,756.53,6808.7699999999995
+ORD-00756,2025-01-25,Kyle Watson,Laptop,South America,Dawn Mclean,13.0,582.91,7577.83
+ORD-00757,2025-01-26,Cole Ford,Tablet,Asia,Andrea Marquez,5.0,764.06,3820.2999999999997
+ORD-00758,2025-01-27,Michael Hall,Laptop,Asia,Miranda Cummings,,508.08,
+ORD-00759,2025-01-28,Andres Medina,Smartphone,Asia,Charles Cummings,13.0,566.13,7359.69
+ORD-00760,2025-01-29,Robert Hall,Laptop,North America,Amanda Cook,2.0,735.75,1471.5
+ORD-00761,2025-01-30,Lisa Stone,Laptop,Europe,Lisa Patel,6.0,720.25,4321.5
+ORD-00762,2025-01-31,Amanda Hickman,Tablet,Europe,Belinda Nguyen,,443.24,
+ORD-00763,2025-02-01,James Evans,Smartphone,Asia,Elaine Baldwin,15.0,531.83,7977.450000000001
+ORD-00764,2025-02-02,Timothy Richardson,Laptop,Europe,Bianca Barron DDS,4.0,633.47,2533.88
+ORD-00765,2025-02-03,Brandon Ingram,Laptop,Europe,Eduardo Wheeler,19.0,741.55,14089.449999999999
+ORD-00766,2025-02-04,Joseph Anderson,Laptop,Asia,Christopher Scott,16.0,345.21,5523.36
+ORD-00767,2025-02-05,Rachel White,Smartphone,North America,John Navarro,18.0,413.74,7447.32
+ORD-00768,2025-02-06,Sandra Lewis,Tablet,South America,Joshua Stone,19.0,145.91,2772.29
+ORD-00769,2025-02-07,Sean Cooper,Tablet,North America,Samantha Wyatt,1.0,191.02,191.02
+ORD-00770,2025-02-08,Wesley Preston,Laptop,Europe,Kevin Richardson Jr.,17.0,234.71,3990.07
+ORD-00771,2025-02-09,Michael Meza,Smartphone,Asia,Todd Brown,3.0,652.05,1956.1499999999999
+ORD-00772,2025-02-10,Edwin Martinez,Smartphone,South America,Darren Palmer,8.0,806.76,6454.08
+ORD-00773,2025-02-11,Cheyenne Doyle,Tablet,Asia,Joseph Hall,7.0,719.35,5035.45
+ORD-00774,2025-02-12,Ryan Ashley,Laptop,Asia,Courtney Tapia,4.0,584.86,2339.44
+ORD-00775,2025-02-13,Ms. Bethany Smith,Smartphone,Asia,Matthew Flowers,3.0,446.88,1340.6399999999999
+ORD-00776,2025-02-14,Katherine Adams,Tablet,Asia,Megan Roberts,19.0,366.52,6963.879999999999
+ORD-00777,2025-02-15,Lori Castro,Tablet,North America,Douglas Dougherty MD,7.0,885.9,6201.3
+ORD-00778,2025-02-16,Roberto Davis,Smartphone,Europe,David Mccormick,1.0,95.49,95.49
+ORD-00779,2025-02-17,Michelle Powell,Tablet,Europe,Justin Little,12.0,605.58,7266.960000000001
+ORD-00780,2025-02-18,Amy Johnson,Laptop,Asia,Natasha Johnson,14.0,249.45,3492.2999999999997
+ORD-00781,2025-02-19,Debra Wells,Laptop,North America,Jose Compton,2.0,332.76,665.52
+ORD-00782,2025-02-20,Jason Hood,Tablet,Asia,Maurice Benton,13.0,680.42,8845.46
+ORD-00783,2025-02-21,John Cooper,Tablet,Asia,Anna Padilla,4.0,663.01,2652.04
+ORD-00784,2025-02-22,Morgan Haynes,Smartphone,Europe,Lindsay Anderson,3.0,239.63,718.89
+ORD-00785,2025-02-23,Matthew Parsons,Tablet,Asia,Joseph Brown,13.0,213.69,2777.97
+ORD-00786,2025-02-24,William Jenkins,Laptop,North America,Tiffany Andrews,9.0,172.97,1556.73
+ORD-00787,2025-02-25,Laura Berg,Tablet,South America,Jacqueline Hess,15.0,219.58,3293.7000000000003
+ORD-00788,2025-02-26,Jordan Hall,Smartphone,South America,Albert Lyons,4.0,825.73,3302.92
+ORD-00789,2025-02-27,Debra Moore,Laptop,Asia,David Randall,16.0,309.67,4954.72
+ORD-00790,2025-02-28,Victoria Richardson,Tablet,Europe,Nathan Young Jr.,11.0,822.71,9049.810000000001
+ORD-00791,2025-03-01,George Martinez,,Asia,Lori Mckinney,13.0,649.16,8439.08
+ORD-00792,2025-03-02,Katie Smith,Smartphone,North America,Dennis Holmes,6.0,756.68,4540.08
+ORD-00793,2025-03-03,Jeffrey Greer,Laptop,Europe,Joshua Baldwin,12.0,192.76,2313.12
+ORD-00794,2025-03-04,Christopher Wong,Tablet,North America,Mr. Robert Blankenship,19.0,707.21,13436.990000000002
+ORD-00795,2025-03-05,Dana Gomez DDS,Laptop,,William Murphy,6.0,243.94,1463.6399999999999
+ORD-00796,2025-03-06,Jessica Carter,Laptop,Europe,Emma Barker,5.0,778.89,3894.45
+ORD-00797,2025-03-07,Annette White,Smartphone,Europe,Brittany Washington,2.0,192.59,385.18
+ORD-00798,2025-03-08,Leah Harris,Laptop,Europe,Patrick Woodard,18.0,584.5,10521.0
+ORD-00799,2025-03-09,Brian Roy,Smartphone,Asia,Daniel Mitchell,1.0,225.85,225.85
+ORD-00800,2025-03-10,Christine Scott,Tablet,North America,Benjamin Thomas,12.0,992.31,11907.72
+ORD-00801,2025-03-11,Shari Wright MD,Tablet,South America,Alan Woodward,9.0,177.76,1599.84
+ORD-00802,2025-03-12,Amanda Ward,Tablet,North America,Alexander Watson,2.0,315.69,631.38
+ORD-00803,2025-03-13,Darlene Dillon,Laptop,Europe,Megan Smith DDS,15.0,315.11,4726.650000000001
+ORD-00804,2025-03-14,Diana Gonzales,Tablet,South America,Alexander Peterson,9.0,686.37,6177.33
+ORD-00805,2025-03-15,Eric Smith,Tablet,Europe,Veronica Rasmussen,15.0,830.75,12461.25
+ORD-00806,2025-03-16,Ann Coleman,Smartphone,North America,Elizabeth Smith,9.0,145.08,1305.72
+ORD-00807,2025-03-17,Jaime Salinas,Laptop,South America,James Hester,11.0,406.48,4471.280000000001
+ORD-00808,2025-03-18,Rebecca Harris,Laptop,North America,Christopher Johnson,16.0,928.4,14854.4
+ORD-00809,2025-03-19,Desiree Reed,Laptop,Europe,Alex Frederick,15.0,759.34,11390.1
+ORD-00810,2025-03-20,James Gonzalez,Tablet,South America,Jordan Thomas,16.0,860.75,13772.0
+ORD-00811,2025-03-21,Carol Myers,Smartphone,Europe,Jennifer Tran,5.0,482.56,2412.8
+ORD-00812,2025-03-22,Rachel Berry,Smartphone,Asia,Melissa Moore,7.0,786.52,5505.639999999999
+ORD-00813,2025-03-23,Victoria Wood,,,Stacey Schmidt,13.0,951.8,12373.4
+ORD-00814,2025-03-24,Adam Moore,Smartphone,Asia,John Salinas,16.0,492.34,7877.44
+ORD-00815,2025-03-25,Juan Moore,Smartphone,Europe,Douglas Coleman,16.0,421.23,6739.68
+ORD-00816,2025-03-26,Jenna Schneider,Smartphone,North America,Mrs. Lisa Jackson,3.0,597.99,1793.97
+ORD-00817,2025-03-27,Edward Brown,Tablet,North America,Dr. Derrick Scott,12.0,783.74,9404.880000000001
+ORD-00818,2025-03-28,Nicholas Lopez,Tablet,South America,Daniel Becker,15.0,,
+ORD-00819,2025-03-29,Daniel Farley,Tablet,Asia,Dana Hamilton,15.0,336.6,5049.0
+ORD-00820,2025-03-30,Jane Guerrero,Tablet,North America,Jessica Walker,18.0,130.22,2343.96
+ORD-00821,2025-03-31,Kristen Jones,Tablet,Asia,Alfred Warren,12.0,129.17,1550.04
+ORD-00822,2025-04-01,Brian Long,Laptop,North America,Jordan Dennis,7.0,189.11,1323.77
+ORD-00823,2025-04-02,Jay Thompson,Laptop,Europe,Troy Wagner,2.0,700.51,1401.02
+ORD-00824,2025-04-03,Mrs. Julia Jackson,Smartphone,Asia,Justin Jackson,19.0,345.97,6573.43
+ORD-00825,2025-04-04,Kristin Miller DDS,,Asia,Ricardo Lowery,6.0,392.58,2355.48
+ORD-00826,2025-04-05,Kyle Barnett,Laptop,North America,Judith Gray,18.0,444.93,8008.74
+ORD-00827,2025-04-06,Kimberly Greer,Smartphone,Europe,Kathleen Hall,2.0,440.89,881.78
+ORD-00828,2025-04-07,Dr. Brian Gomez MD,Laptop,Europe,Christopher Frost,17.0,957.09,16270.53
+ORD-00829,2025-04-08,Cynthia Anderson,Tablet,North America,Donna Williams,17.0,71.95,1223.15
+ORD-00830,2025-04-09,Hannah Reynolds,Laptop,Europe,Dr. Steven Ibarra,9.0,967.57,8708.130000000001
+ORD-00831,2025-04-10,Mark Peterson,Tablet,,Theodore Jones,6.0,617.2,3703.2000000000003
+ORD-00832,2025-04-11,Kathryn Mccormick,,South America,Michael Buck,15.0,618.71,9280.650000000001
+ORD-00833,2025-04-12,Amber Petty,Smartphone,Europe,Alan Harris,3.0,661.96,1985.88
+ORD-00834,2025-04-13,Jeremy Pratt,Tablet,South America,Tom Reynolds,8.0,435.71,3485.68
+ORD-00835,2025-04-14,Alexander Santos,Smartphone,South America,Omar Guerrero,6.0,341.05,2046.3000000000002
+ORD-00836,2025-04-15,Michael Zimmerman,Smartphone,Asia,Megan Robinson,10.0,648.97,6489.700000000001
+ORD-00837,2025-04-16,Jason Roberts,,Europe,Melissa Simmons,13.0,979.91,12738.83
+ORD-00838,2025-04-17,Jason Garcia,Tablet,South America,Grant Hanson,4.0,216.8,867.2
+ORD-00839,2025-04-18,Haley Garcia,Smartphone,Europe,Jennifer Smith,3.0,492.0,1476.0
+ORD-00840,2025-04-19,April Sharp,Smartphone,Europe,Beth Scott,10.0,192.54,1925.3999999999999
+ORD-00841,2025-04-20,Raymond Golden,Tablet,North America,Elizabeth Owens,9.0,860.82,7747.38
+ORD-00842,2025-04-21,Chad Heath,Tablet,Europe,Jeffery Sutton,15.0,839.61,12594.15
+ORD-00843,2025-04-22,Steven Mendez,Smartphone,South America,Regina Hall,15.0,255.81,3837.15
+ORD-00844,2025-04-23,Mary Richardson,Tablet,Europe,Jeffrey Peck,3.0,685.24,2055.7200000000003
+ORD-00845,2025-04-24,Jeremy Hurst,Tablet,North America,Kimberly Bell,9.0,648.78,5839.0199999999995
+ORD-00846,2025-04-25,Rachel Pitts,Smartphone,North America,Patricia Lopez,13.0,,
+ORD-00847,2025-04-26,David Wright,Laptop,Europe,Dwayne Edwards Jr.,17.0,763.08,12972.36
+ORD-00848,2025-04-27,Sherri Bishop,Tablet,South America,Christina Spence,16.0,341.86,5469.76
+ORD-00849,2025-04-28,James Smith,Tablet,North America,Eduardo Moore,13.0,817.68,10629.84
+ORD-00850,2025-04-29,Rebecca Gibson,Tablet,South America,Dr. Todd Dominguez,8.0,853.2,6825.6
+ORD-00851,2025-04-30,Nicholas Hancock,Tablet,South America,Tim Parker,5.0,512.68,2563.3999999999996
+ORD-00852,2025-05-01,Melanie Solomon,Tablet,Asia,Megan Davis,12.0,202.58,2430.96
+ORD-00853,2025-05-02,Dennis Wallace,Tablet,South America,Mr. Patrick Harrington,2.0,682.15,1364.3
+ORD-00854,2025-05-03,Gary Conner,,Asia,Kimberly Nunez,12.0,,
+ORD-00855,2025-05-04,Frederick Martinez,Smartphone,Europe,David Francis,17.0,762.47,12961.99
+ORD-00856,2025-05-05,Vincent Gillespie,Laptop,Asia,Daniel Ramirez,6.0,75.33,451.98
+ORD-00857,2025-05-06,Thomas Harris,Tablet,South America,Amanda Miller,19.0,389.29,7396.51
+ORD-00858,2025-05-07,Ryan Rodriguez,Smartphone,Asia,Hayley Trevino,4.0,51.86,207.44
+ORD-00859,2025-05-08,Corey Fisher,Smartphone,Europe,Denise Stone,7.0,660.78,4625.46
+ORD-00860,2025-05-09,Robert Smith,Laptop,Asia,Andrew Savage,5.0,546.58,2732.9
+ORD-00861,2025-05-10,Priscilla Medina,Smartphone,Asia,Steven Rogers,16.0,341.88,5470.08
+ORD-00862,2025-05-11,Robyn Blake MD,Tablet,Europe,Marcus Montgomery,1.0,505.92,505.92
+ORD-00863,2025-05-12,Wendy Griffin,Smartphone,Europe,Marissa Evans,16.0,106.56,1704.96
+ORD-00864,2025-05-13,Jose Ross,Tablet,South America,Raymond Sanchez,15.0,778.34,11675.1
+ORD-00865,2025-05-14,Erica Owen,Laptop,Asia,Natalie Hernandez,11.0,241.71,2658.81
+ORD-00866,2025-05-15,Terri Hunt,Laptop,Europe,James Chavez,16.0,335.28,5364.48
+ORD-00867,2025-05-16,Whitney Mejia,Tablet,North America,Desiree Jones,15.0,,
+ORD-00868,2025-05-17,Edwin Santos,Tablet,North America,Alexander Miller,12.0,54.55,654.5999999999999
+ORD-00869,2025-05-18,Michael Fischer,Smartphone,Asia,Mary Hunt,6.0,913.98,5483.88
+ORD-00870,2025-05-19,John Harris,Laptop,Europe,Kevin Rodriguez,17.0,857.05,14569.849999999999
+ORD-00871,2025-05-20,Nicholas Beck,Smartphone,Asia,Tyler Herring,,153.54,
+ORD-00872,2025-05-21,Jacqueline Moore,Laptop,Europe,Ronald Reed,15.0,606.36,9095.4
+ORD-00873,2025-05-22,Christopher Oneill,Tablet,North America,Claudia Calhoun,16.0,579.05,9264.8
+ORD-00874,2025-05-23,Kevin Smith,Laptop,Asia,Larry Ortiz,15.0,648.32,9724.800000000001
+ORD-00875,2025-05-24,Russell Hampton,,Europe,Holly Clark,8.0,784.88,6279.04
+ORD-00876,2025-05-25,Maria Hughes,Laptop,Europe,Debra Rodriguez,9.0,187.07,1683.6299999999999
+ORD-00877,2025-05-26,Rebecca Cooper,Laptop,Asia,Christian Casey,2.0,807.89,1615.78
+ORD-00878,2025-05-27,Curtis Anderson,Smartphone,South America,Amanda Richardson,8.0,984.98,7879.84
+ORD-00879,2025-05-28,William Brooks,,North America,Alexandria Matthews,6.0,942.3,5653.799999999999
+ORD-00880,2025-05-29,Wendy Olson,Smartphone,North America,Ann Robinson,19.0,51.15,971.85
+ORD-00881,2025-05-30,Theresa Adams,Smartphone,South America,Katherine Rasmussen,8.0,568.85,4550.8
+ORD-00882,2025-05-31,Lori Conley,,Europe,Rebecca Stafford,14.0,463.51,6489.139999999999
+ORD-00883,2025-06-01,Travis Clarke,Smartphone,Asia,Evelyn Morse,14.0,158.72,2222.08
+ORD-00884,2025-06-02,Robert Acosta,Laptop,Asia,Daniel Rogers,16.0,315.03,5040.48
+ORD-00885,2025-06-03,Pamela Torres,Tablet,South America,Austin Ball,14.0,356.17,4986.38
+ORD-00886,2025-06-04,Sean Floyd,Laptop,Europe,Paul Hicks,14.0,915.92,12822.88
+ORD-00887,2025-06-05,David Taylor,Laptop,North America,Victoria Taylor,14.0,398.24,5575.360000000001
+ORD-00888,2025-06-06,Crystal Davis,Tablet,South America,Kenneth Nguyen,7.0,698.01,4886.07
+ORD-00889,2025-06-07,Robert Mclean,Tablet,,Brian Goodwin,3.0,824.17,2472.5099999999998
+ORD-00890,2025-06-08,Jeffrey Bryant,Laptop,Asia,Duane Hammond,2.0,704.27,1408.54
+ORD-00891,2025-06-09,Amy Adams,Laptop,Asia,Claire Allen,9.0,,
+ORD-00892,2025-06-10,Tara Macias,Tablet,South America,Jessica Wilson,8.0,701.93,5615.44
+ORD-00893,2025-06-11,Brian Boyd,Smartphone,Europe,Felicia Chandler,14.0,106.1,1485.3999999999999
+ORD-00894,2025-06-12,Mark Day,Tablet,Europe,Antonio Brown,9.0,928.99,8360.91
+ORD-00895,2025-06-13,Kristin Moreno,Tablet,Europe,Shannon Taylor,18.0,842.98,15173.64
+ORD-00896,2025-06-14,Wesley Stevenson,Smartphone,Europe,Jason Carlson,3.0,516.13,1548.3899999999999
+ORD-00897,2025-06-15,Glenda Gallegos,Laptop,North America,Todd Smith,,685.55,
+ORD-00898,2025-06-16,Jose Lee,Smartphone,Asia,Samuel Jones,8.0,,
+ORD-00899,2025-06-17,Tammy Lopez,Tablet,Asia,Colton Wood,10.0,161.95,1619.5
+ORD-00900,2025-06-18,Elizabeth Hunt,Tablet,North America,April Henderson,4.0,79.2,316.8
+ORD-00901,2025-06-19,John Davies,Tablet,Asia,Kimberly Johnson,19.0,91.98,1747.6200000000001
+ORD-00902,2025-06-20,Henry Montgomery,Tablet,Europe,Emily Smith,3.0,437.47,1312.41
+ORD-00903,2025-06-21,Chase Harrison,Tablet,Asia,Christine White,14.0,695.57,9737.980000000001
+ORD-00904,2025-06-22,Christine Hardy,Smartphone,South America,Kayla Allen,4.0,810.69,3242.76
+ORD-00905,2025-06-23,Cody Anderson,Smartphone,South America,Brandon Fry,19.0,268.18,5095.42
+ORD-00906,2025-06-24,Vanessa Hogan,Smartphone,South America,Samantha Lambert,16.0,415.62,6649.92
+ORD-00907,2025-06-25,Daniel Bates,Laptop,North America,Ashley Archer,8.0,622.43,4979.44
+ORD-00908,2025-06-26,Caitlin Kelley,Laptop,Asia,Jerry Schmitt,2.0,760.23,1520.46
+ORD-00909,2025-06-27,Edward Olson,Laptop,Europe,Sharon Freeman,19.0,150.44,2858.36
+ORD-00910,2025-06-28,Austin Mccormick,Laptop,Europe,Mrs. Katrina Hall DVM,13.0,402.27,5229.51
+ORD-00911,2025-06-29,Kenneth Long,Laptop,Asia,Craig Pittman,10.0,258.65,2586.5
+ORD-00912,2025-06-30,Marie Daniel,Tablet,South America,Diana Thompson,10.0,803.98,8039.8
+ORD-00913,2025-07-01,Michael Foster,Tablet,Europe,Chad Montgomery,6.0,204.86,1229.16
+ORD-00914,2025-07-02,Rachel Grant,Laptop,South America,Gregory Skinner,5.0,147.56,737.8
+ORD-00915,2025-07-03,Vanessa Lewis,Tablet,,Evan Hebert,4.0,321.58,1286.32
+ORD-00916,2025-07-04,Michael Lewis,Tablet,North America,Heidi Smith,14.0,495.44,6936.16
+ORD-00917,2025-07-05,Rebecca Watson,Laptop,South America,Justin Evans,6.0,424.72,2548.32
+ORD-00918,2025-07-06,Deborah Tucker,Tablet,South America,Elizabeth Williams,3.0,323.1,969.3000000000001
+ORD-00919,2025-07-07,Maria Johnson,Laptop,Europe,Kenneth Rojas,5.0,151.12,755.6
+ORD-00920,2025-07-08,William Garcia,,South America,Laura Black,6.0,347.02,2082.12
+ORD-00921,2025-07-09,Misty Salazar,Laptop,Europe,Nicole Hansen,13.0,454.18,5904.34
+ORD-00922,2025-07-10,Megan Griffin,Laptop,Asia,Julie Wright,4.0,893.29,3573.16
+ORD-00923,2025-07-11,Bethany Robinson,Smartphone,South America,Maria Matthews,18.0,700.31,12605.579999999998
+ORD-00924,2025-07-12,Dennis Fleming,Smartphone,Asia,Jessica Watts,13.0,744.71,9681.23
+ORD-00925,2025-07-13,Elizabeth Good,Laptop,North America,Grace Jones,5.0,266.7,1333.5
+ORD-00926,2025-07-14,Kendra Welch,Smartphone,Europe,Nathan Garcia,16.0,117.6,1881.6
+ORD-00927,2025-07-15,Anne Jones,Smartphone,Asia,Jimmy Roberts,15.0,50.93,763.95
+ORD-00928,2025-07-16,Cameron Guzman,Laptop,,Christine Mckinney,16.0,748.57,11977.12
+ORD-00929,2025-07-17,Gary Combs,Smartphone,North America,Sabrina Flynn,9.0,283.82,2554.38
+ORD-00930,2025-07-18,Jesse Byrd,Laptop,South America,Susan Hood,18.0,370.73,6673.14
+ORD-00931,2025-07-19,Gloria Burch,Tablet,South America,Robert Galvan,5.0,922.37,4611.85
+ORD-00932,2025-07-20,Lydia Roy,Laptop,South America,Bryan Simpson,8.0,994.29,7954.32
+ORD-00933,2025-07-21,Eugene Williams,Smartphone,Asia,Courtney Mckinney,17.0,249.56,4242.52
+ORD-00934,2025-07-22,Jessica Kelley,Laptop,North America,Jamie Taylor,19.0,786.76,14948.44
+ORD-00935,2025-07-23,Michael Strong,Tablet,Asia,Donna Wong,5.0,,
+ORD-00936,2025-07-24,Lisa Pineda,Tablet,North America,Patricia Wade,13.0,569.98,7409.74
+ORD-00937,2025-07-25,Steven Baker,Tablet,North America,Jonathan Manning,15.0,701.09,10516.35
+ORD-00938,2025-07-26,Danny Howell,Smartphone,South America,Carmen Schmidt,17.0,274.67,4669.39
+ORD-00939,2025-07-27,Andrea Salinas MD,Laptop,Europe,Richard Martin,1.0,,
+ORD-00940,2025-07-28,Nicholas Fisher,Tablet,South America,Christy Guzman,8.0,,
+ORD-00941,2025-07-29,Whitney Rodriguez,,Europe,Jeffery Anderson,18.0,870.47,15668.460000000001
+ORD-00942,2025-07-30,Barry Smith,Tablet,Asia,Lauren Medina,2.0,689.7,1379.4
+ORD-00943,2025-07-31,Zachary Walsh,Tablet,Europe,Randall Jones,5.0,795.91,3979.5499999999997
+ORD-00944,2025-08-01,Anthony Rosales,Smartphone,North America,Russell Horton,11.0,444.04,4884.4400000000005
+ORD-00945,2025-08-02,Sheila Escobar,Laptop,North America,Cory Taylor,19.0,893.74,16981.06
+ORD-00946,2025-08-03,Jessica Brown,Smartphone,South America,William Lopez,17.0,624.06,10609.019999999999
+ORD-00947,2025-08-04,Matthew Welch,Laptop,South America,Steven Foster,11.0,597.64,6574.04
+ORD-00948,2025-08-05,Maria Williams,Laptop,Asia,Michael Miller,3.0,391.33,1173.99
+ORD-00949,2025-08-06,Erin White,Smartphone,North America,Bethany White,6.0,249.44,1496.6399999999999
+ORD-00950,2025-08-07,Andrew Rodriguez,Laptop,Europe,John Wong,1.0,504.26,504.26
+ORD-00951,2025-08-08,Robert Hernandez,Tablet,Asia,Steven Shields,15.0,889.72,13345.800000000001
+ORD-00952,2025-08-09,Mia Hughes,Smartphone,Asia,Elizabeth Murphy,12.0,140.86,1690.3200000000002
+ORD-00953,2025-08-10,Marcia Gutierrez,Laptop,Asia,Joseph Jackson,9.0,958.96,8630.64
+ORD-00954,2025-08-11,Patrick Baker,Tablet,Europe,Catherine Curry,19.0,613.87,11663.53
+ORD-00955,2025-08-12,Brian Brown,Laptop,North America,Allen Conner,,576.25,
+ORD-00956,2025-08-13,Peter Buchanan,Tablet,South America,Eric Sanders,16.0,478.66,7658.56
+ORD-00957,2025-08-14,Teresa Mercado,Tablet,Asia,Sarah Lee,2.0,272.27,544.54
+ORD-00958,2025-08-15,Tyler Gray,Tablet,North America,Ronald Hughes,2.0,357.26,714.52
+ORD-00959,2025-08-16,Amy Martin,Tablet,Europe,Karen Hammond,5.0,72.97,364.85
+ORD-00960,2025-08-17,Kristen Herrera,Tablet,Europe,Heather Sullivan,10.0,80.69,806.9
+ORD-00961,2025-08-18,Erica Howe,Smartphone,North America,Joshua Harris,7.0,626.69,4386.83
+ORD-00962,2025-08-19,Kevin Hernandez,Tablet,Europe,Carrie Moody,15.0,,
+ORD-00963,2025-08-20,James Chavez,Smartphone,South America,Gabriel Holland,17.0,658.04,11186.68
+ORD-00964,2025-08-21,Nicole Harrell,Smartphone,North America,Cassandra Johnson,5.0,291.1,1455.5
+ORD-00965,2025-08-22,Tyler Taylor,Tablet,Asia,Nicole Chapman,15.0,134.06,2010.9
+ORD-00966,2025-08-23,Christopher English,Laptop,North America,Nichole Keith,6.0,269.36,1616.16
+ORD-00967,2025-08-24,Craig Rivera,Laptop,Europe,Jeremy Smith,5.0,86.6,433.0
+ORD-00968,2025-08-25,Jennifer Poole,Tablet,North America,Tara Barrett,5.0,509.33,2546.65
+ORD-00969,2025-08-26,Mr. Joshua Richards,Tablet,North America,Sharon Mosley,,172.66,
+ORD-00970,2025-08-27,William Blanchard,Laptop,South America,Sheri Baxter,11.0,653.41,7187.509999999999
+ORD-00971,2025-08-28,Ronald Patterson,Laptop,North America,Jennifer Hernandez,5.0,906.61,4533.05
+ORD-00972,2025-08-29,Teresa Patterson,Smartphone,,Joseph Lynn,18.0,987.55,17775.899999999998
+ORD-00973,2025-08-30,Megan Day,Laptop,Asia,Sean Cooper,11.0,389.13,4280.43
+ORD-00974,2025-08-31,Anne Coleman,Laptop,Asia,Jacqueline Miller,17.0,578.24,9830.08
+ORD-00975,2025-09-01,John Weiss,Smartphone,Asia,Maria Copeland,2.0,839.53,1679.06
+ORD-00976,2025-09-02,Sara Foster,,Asia,Jeffrey Padilla,11.0,732.56,8058.16
+ORD-00977,2025-09-03,Sandra Boyle,Laptop,Europe,Laura Acevedo,6.0,,
+ORD-00978,2025-09-04,Stephanie Jordan,Laptop,,Samantha Johnson,2.0,560.45,1120.9
+ORD-00979,2025-09-05,Sheri Thompson,Tablet,Europe,Christina Wells,17.0,65.52,1113.84
+ORD-00980,2025-09-06,Clayton Smith,Laptop,North America,Dakota Moore,19.0,630.68,11982.919999999998
+ORD-00981,2025-09-07,Brandon Martinez,Tablet,South America,Sally Miller,15.0,348.41,5226.150000000001
+ORD-00982,2025-09-08,Jordan Parks,Tablet,Europe,Karen Rose,18.0,543.72,9786.960000000001
+ORD-00983,2025-09-09,James Kelly,Tablet,North America,Madison Wilson,18.0,578.0,10404.0
+ORD-00984,2025-09-10,Lisa Johnson,Smartphone,North America,Samantha Dickson,5.0,994.73,4973.65
+ORD-00985,2025-09-11,Colin Lee,Tablet,,Emily Everett,13.0,280.41,3645.3300000000004
+ORD-00986,2025-09-12,Robin Aguilar,Tablet,Europe,Elizabeth Perez,19.0,643.81,12232.39
+ORD-00987,2025-09-13,Ronald Bennett,Smartphone,South America,David Morrison,4.0,521.18,2084.72
+ORD-00988,2025-09-14,Julia Young,,Europe,Barbara Foster,7.0,580.24,4061.6800000000003
+ORD-00989,2025-09-15,Nicholas Meyers,Smartphone,South America,Joseph Harding,6.0,751.59,4509.54
+ORD-00990,2025-09-16,Melissa Casey,Laptop,Asia,Matthew Gregory,15.0,916.87,13753.05
+ORD-00991,2025-09-17,Kathleen Parrish,Laptop,North America,Phillip Atkins,6.0,83.43,500.58000000000004
+ORD-00992,2025-09-18,Brandon Owen,Tablet,North America,Mary Thornton,18.0,164.27,2956.86
+ORD-00993,2025-09-19,Andrew Nguyen,Smartphone,South America,Natalie Thomas,14.0,240.93,3373.02
+ORD-00994,2025-09-20,Stacy Mccarty,Smartphone,South America,Seth Werner,16.0,612.67,9802.72
+ORD-00995,2025-09-21,Carlos Hartman,Tablet,Asia,Michelle Thompson,3.0,285.87,857.61
+ORD-00996,2025-09-22,Patrick Mercado,Laptop,Europe,Stephanie Bennett,11.0,506.2,5568.2
+ORD-00997,2025-09-23,Kathleen Evans,Tablet,South America,David Beard,15.0,,
+ORD-00998,2025-09-24,Curtis Brown,Laptop,,Julie Wright,19.0,734.3,13951.699999999999
+ORD-00999,2025-09-25,Samantha Dunn,Smartphone,South America,Rachel Hayes,,796.62,
+ORD-01000,2025-09-26,Jennifer Moore,Laptop,South America,Scott Smith,17.0,478.18,8129.06
+ORD-01001,2025-09-27,Terri Hunt,Laptop,Europe,James Chavez,16.0,335.28,5364.48
+ORD-01002,2025-09-28,Jennifer Lang,Laptop,South America,Amy Brown,1.0,181.7,181.7
+ORD-01003,2025-09-29,Deborah Johnson,Smartphone,North America,Matthew Martinez,3.0,275.59,826.77
+ORD-01004,2025-09-30,William Wright,Smartphone,Asia,Katherine Ortiz,18.0,479.9,8638.199999999999
+ORD-01005,2025-10-01,Seth Greene,Tablet,Europe,Mark Torres,1.0,762.64,762.64
+ORD-01006,2025-10-02,Steven Baker,Tablet,North America,Jonathan Manning,15.0,701.09,10516.35
+ORD-01007,2025-10-03,John Harris,Laptop,Europe,Kevin Rodriguez,17.0,857.05,14569.849999999999
+ORD-01008,2025-10-04,Kristin Smith,Tablet,North America,Kelly Salazar,19.0,844.01,16036.19
+ORD-01009,2025-10-05,Cynthia Nelson,Smartphone,North America,Kevin Mcdonald,6.0,773.56,4641.36
+ORD-01010,2025-10-06,Christina Kennedy,Laptop,Asia,Kyle Fox,9.0,594.2,5347.8
+ORD-01011,2025-10-07,Robert Hernandez,Tablet,Asia,Steven Shields,15.0,889.72,13345.800000000001
+ORD-01012,2025-10-08,Jennifer Huffman,,South America,Steven Brooks,19.0,366.16,6957.040000000001
+ORD-01013,2025-10-09,Kimberly Greer,Smartphone,Europe,Kathleen Hall,2.0,440.89,881.78
+ORD-01014,2025-10-10,Jason Jordan,Smartphone,South America,Katherine Peterson,6.0,223.93,1343.58
+ORD-01015,2025-10-11,Dennis Fleming,Smartphone,Asia,Jessica Watts,13.0,744.71,9681.23
+ORD-01016,2025-10-12,Wayne Smith,Smartphone,South America,Jessica Gillespie,3.0,,
+ORD-01017,2025-10-13,Jacob Black,Smartphone,Asia,Nicholas Davis,17.0,942.35,16019.95
+ORD-01018,2025-10-14,Dana Garza,Laptop,North America,Emily Smith,8.0,114.14,913.12
+ORD-01019,2025-10-15,Oscar King,Tablet,North America,Tyler Cobb,7.0,729.0,5103.0
+ORD-01020,2025-10-16,Brian Boyd,Smartphone,Europe,Felicia Chandler,14.0,106.1,1485.3999999999999
