@@ -57,7 +57,5 @@ The dashboard visualizes:
 
 The dashboard was built in **Power BI** and is available in the `Dashboard` folder as `Interactive_Sales_Dashboard.pbix`.
 
-![Dashboard Preview](dashboard.png)
-
 ## Contribution
 Feel free to contribute by improving the data cleaning process, adding new visualizations, or enhancing the dashboard.
